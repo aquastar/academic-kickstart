@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Zhiqian Chen
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Virginia Tech
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Zhiqian Chen is a Ph.D. candidate at Department of Computer Science, Virginia Tech, focusing on graph neural networks and generative model.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Graph Neural Networks
+- Interdisciplinary Application
+- Algorithmic Composition
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D., Virginia Tech, U.S.
+    institution:
+    year:
+  - course: MEng, Peking University, China
+    institution: 
+    year:
+  - course: BSc, Huazhong Univ. of Sci. & Tech., China
+    institution:
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:czq@vt.edu'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=lwfx98UAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: http//github.com/aquastar
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Zhiqian_Chen2
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,8 +74,10 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+- An interdisciplinary work for material discovery is accepted by **Nature Communications**, and it is online [Paper Link](https://www.nature.com/articles/s41467-019-13214-1?utm_campaign=MultipleJournals_USG_DEVICE&utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Engineering-Global)
+  , [Blog](https://devicematerialscommunity.nature.com/users/328140-chen-ling/posts/56441-discovering-novel-solid-state-lithium-ion-conductors-through-unsupervised-learning)
+- The work using graph nueral network for runtime estimation of circuit decryption is accetped by **DATE 2020**
+- Solution for designing school attendance zones is accepted by **ACM SIGSPATIAL** and **AAAI-EAAI 2020**
