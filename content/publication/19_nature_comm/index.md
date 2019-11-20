@@ -37,7 +37,7 @@ featured: true
 
 #links:
 #- name:
-# url: "https://devicematerialscommunity.nature.com/users/328140-chen-ling/posts/56441-discovering-novel-solid-state-lithium-ion-conductors-through-unsupervised-learning" 
+# url: "https://devicematerialscommunity.nature.com/users/328140-chen-ling/posts/56441-discovering-novel-solid-state-lithium-ion-conductors-through-unsupervised-learning"
 url_pdf : "https://www.nature.com/articles/s41467-019-13214-1?utm_campaign=MultipleJournals_USG_DEVICE&utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Engineering-Global"
 url_code: ''
 url_dataset: ''
@@ -48,7 +48,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
   focal_point: ""

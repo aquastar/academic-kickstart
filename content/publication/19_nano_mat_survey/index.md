@@ -3,7 +3,7 @@ title: "LiBH4 for hydrogen storage - New perspectives"
 authors:
 - Zhao Ding
 - Shaoyuan Li
-- Yang Zhou 
+- Yang Zhou
 - Zhiqian Chen
 - Weijie Yang
 - Wenhui Ma
@@ -31,11 +31,11 @@ summary:
 
 tags:
 - material
-featured: true
+featured: false
 
 #links:
 #- name:
-#  url: 
+#  url:
 url_pdf : "https://www.sciencedirect.com/science/article/pii/S2589965119300558"
 url_code: ''
 url_dataset: ''
@@ -46,7 +46,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
   focal_point: ""

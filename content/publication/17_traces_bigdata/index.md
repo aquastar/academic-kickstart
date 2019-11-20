@@ -22,11 +22,11 @@ publication_types: ["1"]
 publication: In *IEEE International Conference on Big Data*
 publication_short: In **BigData** 17
 
-abstract: 
+abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
 - storytelling
@@ -34,7 +34,7 @@ featured: true
 
 #links:
 #- name:
-#  url: 
+#  url:
 url_pdf : "https://ieeexplore.ieee.org/document/8258107/"
 url_code: ''
 url_dataset: ''
@@ -45,7 +45,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'FusionGAN structure'
   focal_point: ""

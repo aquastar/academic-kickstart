@@ -27,11 +27,11 @@ summary: a path planing method for drones.
 
 tags:
 - unmanned vehicle
-featured: true
+featured: false
 
 #links:
 #- name:
-#  url: 
+#  url:
 url_pdf : "http://www.nvc.cs.vt.edu/~ctlu/Publication/2015/GISTAM-2015-Proceedings.pdf"
 url_code: ''
 url_dataset: ''
@@ -42,7 +42,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
   focal_point: ""
@@ -73,4 +73,3 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

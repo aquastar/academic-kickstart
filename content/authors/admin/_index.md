@@ -31,11 +31,11 @@ education:
     institution:
     year:
   - course: MEng, Peking University, China
-    institution: 
+    institution:
     year:
   - course: BSc, Huazhong Univ. of Sci. & Tech., China
     institution:
-    year: 
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -68,7 +68,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -76,8 +76,7 @@ user_groups:
 - Visitors
 
 ---
-
 - An interdisciplinary work for material discovery is accepted by **Nature Communications**, and it is online [Paper Link](https://www.nature.com/articles/s41467-019-13214-1?utm_campaign=MultipleJournals_USG_DEVICE&utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Engineering-Global)
   , [Blog](https://devicematerialscommunity.nature.com/users/328140-chen-ling/posts/56441-discovering-novel-solid-state-lithium-ion-conductors-through-unsupervised-learning)
-- The work using graph nueral network for runtime estimation of circuit decryption is accetped by **DATE 2020**
+- The work using graph neural network for runtime estimation of circuit decryption is accetped by **DATE 2020**
 - Solution for designing school attendance zones is accepted by **ACM SIGSPATIAL** and **AAAI-EAAI 2020**

@@ -31,11 +31,11 @@ summary: A method for predicting citation number of pattern
 
 tags:
 - point process
-featured: true
+featured: false
 
 #links:
 #- name:
-#  url: 
+#  url:
 url_pdf : "https://www.ijcai.org/proceedings/2019/0364.pdf"
 url_code: ''
 url_dataset: ''
@@ -46,7 +46,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'FusionGAN structure'
   focal_point: ""

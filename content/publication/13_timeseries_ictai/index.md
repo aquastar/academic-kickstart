@@ -27,11 +27,11 @@ summary: A time series based method for detecting impolite crawler.
 
 tags:
 - time series
-featured: true
+featured: false
 
 #links:
 #- name:
-#  url: 
+#  url:
 url_pdf : "files/impolitecrawler.pdf"
 url_code: ''
 url_dataset: ''
@@ -42,7 +42,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'FusionGAN structure'
   focal_point: ""

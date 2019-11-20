@@ -24,15 +24,15 @@ publication_types: ["1"]
 publication: In *Tenth AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI-20)*
 publication_short: In **AAAI-EAAI** 20 (to appear)
 
-abstract: 
+abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
 - clustering
-featured: true
+featured: false
 
 #links:
 #- name:
@@ -47,7 +47,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'FusionGAN structure'
   focal_point: ""
