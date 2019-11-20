@@ -28,7 +28,7 @@ summary:
 
 tags:
 - ConvNet
-featured: true
+featured: false
 
 #links:
 #- name:

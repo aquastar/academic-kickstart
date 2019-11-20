@@ -26,7 +26,7 @@ abstract: FusionGAN is a novel genre fusion framework for music generation that 
 
 
 # Summary. An optional shortened abstract.
-summary: Extend GAN to fuse differet domains in an unsupervised fashion, which is not only for music fusion but also any other domain.
+summary: Extend GAN to fuse different domains in an unsupervised fashion, which is not only for music fusion but also any other domain.
 
 tags:
 - music
