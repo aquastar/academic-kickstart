@@ -1,6 +1,6 @@
 ---
 title: Ceative music generation
-summary: The goal is to produce new music at human musician's level
+summary: 
 tags:
 - deep Learning
 - music
@@ -10,7 +10,7 @@ date: "2019-08-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -33,6 +33,3 @@ slides: example
 
 
 Computational creativity is a lively research area that focuses on understanding and facilitating human creativity through the implementation of software programs. With the rapid advances in data-driven algorithms such as deep learning, the exploration into computational creativity via machine learning approaches have become increasingly popular. Examples showing the potential of deep learning for creative approaches are the artistic style transfer on images and videos. Music, with its complex hierarchical and sequential structure and its inherent emotional and aesthetic subjectivity, is an intriguing research subject at the core of human creativity. While there has been some work on generative models for music, research that investigates the capabilities of deep learning for creative applications such as style transfer is limited.
-
-
-
