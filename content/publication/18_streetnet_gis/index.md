@@ -18,13 +18,13 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems*
-publication_short: In **SIGSPATIAL** 18
+publication_short: In **SIGSPATIAL**
 
 abstract: One can infer from the broken window theory that the perception of a city street?s safety level relies significantly on the visual appearance of the street. Previous works have addressed the feasibility of using computer vision algorithms to classify urban scenes. Most of the existing urban perception predictions focus on binary outcomes such as safe or dangerous, wealthy or poor. However, binary predictions are not representative and cannot provide informative inferences such as the potential crime types in certain areas. In this paper, we explore the connection between urban perception and crime inferences. We propose a convolutional neural network (CNN) - StreetNet to learn crime rankings from street view images. The learning process is formulated on the basis of preference learning and label ranking settings. We design a street view images retrieval algorithm to improve the representation of urban perception. A data-driven, spatiotemporal algorithm is proposed to find unbiased label mappings between the street view images and the crime ranking records. Extensive evaluations conducted on images from different cities and comparisons with baselines demonstrate the effectiveness of our proposed method.
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
 - ConvNet
@@ -43,7 +43,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'FusionGAN structure'
   focal_point: ""

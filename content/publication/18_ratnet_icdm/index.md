@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Data Mining*
-publication_short: In **ICDM** 18
+publication_short: In **ICDM**
 
 abstract: "For node level graph encoding, a recent important state-of-art method is the graph convolutional networks (GCN), which nicely integrate local vertex features and graph topology in the spectral domain. However, current studies suffer from several drawbacks: (1) graph CNNs relies on Chebyshev polynomial approximation which results in oscillatory approximation at jump discontinuities; (2) Increasing the order of Chebyshev polynomial can reduce the oscillations issue, but also incurs unaffordable computational cost; (3) Chebyshev polynomials require degree Omega(poly(1/e)) to approximate a jump signal, while rational function only needs O(poly log(1/e). However, it's non-trivial to apply rational approximation without increasing computational complexity due to the denominator. In this paper, the superiority of rational approximation is exploited for graph signal recovering. RatioanlNet is proposed to integrate rational function and neural networks. We show that rational function of eigenvalues can be rewritten as a function of graph Laplacian, which can avoid multiplication by the eigenvector matrix. Focusing on the analysis of approximation on graph convolution operation, a graph signal regression task is formulated. Under graph signal regression task, its time complexity can be significantly reduced by graph Fourier transform. To overcome the local minimum problem of neural networks model, a relaxed Remez algorithm is utilized to initialize the weight parameters. Convergence rate of RatioanlNet and polynomial based methods on jump signal is analyzed for a theoretical guarantee. The extensive experimental results demonstrated that our approach could effectively characterize the jump discontinuities, outperforming competing methods by a substantial margin on both synthetic and real-world graphs."
 
@@ -34,7 +34,7 @@ featured: true
 
 #links:
 #- name:
-#  url: 
+#  url:
 url_pdf : "https://arxiv.org/pdf/1808.10073.pdf"
 url_code: 'https://github.com/aquastar/RationalGraphNet'
 url_dataset: ''
@@ -45,7 +45,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'FusionGAN'
   focal_point: ""

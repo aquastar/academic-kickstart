@@ -29,7 +29,7 @@ summary:
 
 tags:
 - Beyesian
-featured: true
+featured: false
 
 #links:
 #- name:

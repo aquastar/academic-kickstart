@@ -32,11 +32,11 @@ summary: Apply graph convolutional network to estimate runtime of circuit decryp
 
 tags:
 - circuit
-featured: true
+featured: false
 
 #links:
 #- name:
-#  url: 
+#  url:
 url_pdf : ""
 url_code: ''
 url_dataset: ''
@@ -47,7 +47,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
   focal_point: ""

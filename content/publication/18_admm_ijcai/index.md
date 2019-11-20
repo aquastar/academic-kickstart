@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the Twenty-seventh International Joint Conference on Artificial Intelligence*
-publication_short: In **IJCAI** 18
+publication_short: In **IJCAI**
 
 abstract: Self-paced learning (SPL) mimics the cognitive process of humans, who generally learn from easy samples to hard ones. One key issue in SPL is the training process required for each instance weight depends on the other samples and thus cannot easily be run in a distributed manner in a large-scale dataset. In this paper, we reformulate the self-paced learning problem into a distributed setting and propose a novel Distributed Self-Paced Learning method (DSPL) to handle large scale datasets. Specifically, both the model and instance weights can be optimized in parallel for each batch based on a consensus alternating direction method of multipliers. We also prove the convergence of our algorithm under mild conditions. Extensive experiments on both synthetic and real datasets demonstrate that our approach is superior to those of ex- isting methods..
 
@@ -32,7 +32,7 @@ featured: false
 
 #links:
 #- name:
-#  url: 
+#  url:
 url_pdf: https://www.ijcai.org/proceedings/2018/0437.pdf
 url_code: ''
 url_dataset: ''
@@ -43,7 +43,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
   focal_point: ""

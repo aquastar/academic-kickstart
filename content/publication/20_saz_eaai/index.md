@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Tenth AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI-20)*
-publication_short: In **AAAI-EAAI** 20 (to appear)
+publication_short: In **AAAI-EAAI** (to appear)
 
 abstract:
 

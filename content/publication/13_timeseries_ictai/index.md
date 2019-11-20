@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE 25th International Conference on Tools with Artificial Intelligence*
-publication_short: In **ICTAI** 13
+publication_short: In **ICTAI**
 
 abstract: Numerous web crawlers especially impolite crawlers visit websites to get contents every day, which yields higher access frequency than the websites can hold. The big traffic of impolite crawlers causes a strong hazard on analysis of normal users and advertisement income. In this paper, we present a method to detect impolite crawlers by using time series analysis. This method is applied to real data of web server logs. Compared with the old methods only using common log attributes as features, the method using time series features improves detection accuracy by at least 20%.
 

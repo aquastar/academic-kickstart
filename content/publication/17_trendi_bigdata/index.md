@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Big Data*
-publication_short: In **BigData** 17
+publication_short: In **BigData**
 
 abstract:
 
