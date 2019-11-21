@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 
 ---
-- An interdisciplinary work for material discovery is accepted by **Nature Communications**, and it is online [Paper Link](https://www.nature.com/articles/s41467-019-13214-1?utm_campaign=MultipleJournals_USG_DEVICE&utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Engineering-Global)
-  , [Blog](https://devicematerialscommunity.nature.com/users/328140-chen-ling/posts/56441-discovering-novel-solid-state-lithium-ion-conductors-through-unsupervised-learning)
+- An interdisciplinary work for material discovery is accepted by **Nature Communications**, and it is online [[Paper Link]](https://www.nature.com/articles/s41467-019-13214-1?utm_campaign=MultipleJournals_USG_DEVICE&utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Engineering-Global)
+  , [[Blog]](https://devicematerialscommunity.nature.com/users/328140-chen-ling/posts/56441-discovering-novel-solid-state-lithium-ion-conductors-through-unsupervised-learning)
 - The work using graph neural network for runtime estimation of circuit decryption is accetped by **DATE 2020**
 - Solution for designing school attendance zones is accepted by **ACM SIGSPATIAL** and **AAAI-EAAI 2020**
