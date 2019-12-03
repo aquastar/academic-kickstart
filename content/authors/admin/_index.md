@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 
 ---
-- An interdisciplinary work for material discovery is accepted by **Nature Communications**, which is also selected as Editors’ Highlights of recent research on Energy Materials: [[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare), [[Article]](https://www.nature.com/articles/s41467-019-13214-1?utm_campaign=MultipleJournals_USG_DEVICE&utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Engineering-Global)
+- An interdisciplinary work for material discovery is accepted by **Nature Communications**, which is also selected as Editors’ Highlights of recent research on Energy Materials: \\[[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare), [[Article]](https://www.nature.com/articles/s41467-019-13214-1?utm_campaign=MultipleJournals_USG_DEVICE&utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Engineering-Global)
   , [[Blog]](https://devicematerialscommunity.nature.com/users/328140-chen-ling/posts/56441-discovering-novel-solid-state-lithium-ion-conductors-through-unsupervised-learning), [[Nature Chem]](https://www.facebook.com/naturechemistry/posts/2469966929936783?__tn__=-R)
 - The work using graph neural network for runtime estimation of circuit decryption is accetped by **DATE 2020**
 - Solution for designing school attendance zones is accepted by **ACM SIGSPATIAL** and **AAAI-EAAI 2020**
