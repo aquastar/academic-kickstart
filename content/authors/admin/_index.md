@@ -30,10 +30,10 @@ education:
   - course: Ph.D., Virginia Tech, U.S.
     institution:
     year:
-  - course: MEng, Peking University, China
+  - course: MEng., Peking University, China
     institution:
     year:
-  - course: BSc, Huazhong Univ. of Sci. & Tech., China
+  - course: BSc., Huazhong Univ. of Sci. & Tech., China
     institution:
     year:
 
