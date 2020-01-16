@@ -1,17 +1,17 @@
 ---
 title: Materials Application by Deep Learning
-summary: 
+summary:
 tags:
 - deep Learning
 - material
 - graph
-date: "2019-08-27T00:00:00Z"
+date: "2019-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -31,5 +31,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+**[ Collaborated with Toyota Research, Illinois Institute of Techonology ]**
 
 Material development heavily relies on domain knowledge and professional's intuitive, which hinders the discovery of new material. We are collaborating with material experts and propose generative models for boosting material discovery.

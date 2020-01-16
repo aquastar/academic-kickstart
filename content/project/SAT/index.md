@@ -1,6 +1,6 @@
 ---
-title: SAT solving and hardness estimation
-summary: 
+title: Circuit Security and SAT solving
+summary:
 tags:
 - deep Learning
 - graph
@@ -10,7 +10,7 @@ date: "2019-08-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -30,5 +30,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+**[ Collaborated with George Manson University ]**
 
 Boolean Satisfiability (SAT) problem is a fundamental problem in computer science and the core of many real-world applications such as hardware and software design. However, its solving or estimating hardness of SAT is NP-hard. We are seeking for a series of a methodology by deep learning to significantly accelerate its solving and estimation.

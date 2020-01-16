@@ -1,16 +1,16 @@
 ---
 title: Brain and Physics Inspired Nueral Networks Design
-summary: 
+summary:
 tags:
 - deep Learning
 - graph
-date: "2019-08-27T00:00:00Z"
+date: "2018-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -32,6 +32,3 @@ slides: example
 ---
 
 The current generation is inspired by neuron's connection. However, more effective mechanisms of human's brain are remains ignored. We plan to introduce more brain's feature to advance current deep learning techniques
-
-
-

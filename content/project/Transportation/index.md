@@ -30,4 +30,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+**[ Collaborated with DAC at Virginia Tech ]**
+
 Graph neural networks (GNNs) motivate many applications based on network data such as transportation road. However, as a practical scenario, the road has very different characteristics from a smooth network (e.g., social network) often used by GNN experiments. We plan to identify these special features and accordingly adjust GNN to adopt transportation problems.

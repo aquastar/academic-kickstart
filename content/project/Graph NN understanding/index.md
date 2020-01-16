@@ -30,5 +30,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+**[ Collaborated with University of Taxes at Dallas ]**
 
-Today's deep learning is still a black box. Similarly, graph neural network is another black box. This incurs difficult in comparison and improvement since each method is acclaimed as state-of-the-art. A unified framework is needed, which is our goal. 
+Today's deep learning is still a black box. Similarly, graph neural network is another black box. This incurs difficult in comparison and improvement since each method is acclaimed as state-of-the-art. A unified framework is needed to avoid the potential risks, which is our goal. 

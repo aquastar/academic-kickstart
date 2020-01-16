@@ -1,5 +1,5 @@
 ---
-title: Spectral Graph Theory and Approximation
+title: Spatial Temporal Problem by Graph Model
 summary: 
 tags:
 - deep Learning
@@ -31,5 +31,6 @@ url_video: ""
 slides: example
 ---
 
+**[ Collaborated with DAC at Virginia Tech ]**
 
-Spectal graph theory has been introduced into deep learning in recent years, which boost the research of graph neural networks. However, the pros, cons and suitable scenarios are unclear since there existing many spectral based method. In this research, we aims to answuer the question "which graph neural network is most sutiable on which type of data?"
+Graph neural networks (GNNs) motivate many applications based on network data such as transportation road. However, as a practical scenario, the road has very different characteristics from a smooth network (e.g., social network) often used by GNN experiments. We plan to identify these special features and accordingly adjust GNN to adopt transportation problems.

@@ -1,15 +1,15 @@
 ---
 title: Multimodal Learning
-summary: 
+summary:
 tags:
 - deep Learning
-date: "2019-08-27T00:00:00Z"
+date: "2017-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -31,6 +31,3 @@ slides: example
 ---
 
 Intuitively, humans understand and infer among multiple types of data such as image, video and text, which are often represented by vector subjecting to very different distributions. How to integrate multimodal data for understanding the world is critical to boosting the power of general AI.
-
-
-

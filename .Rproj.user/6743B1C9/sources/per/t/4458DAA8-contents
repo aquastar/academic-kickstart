@@ -1,16 +1,16 @@
 ---
-title: Creative Music Composition with Generative Model
-summary:
+title: SAT solving and hardness estimation
+summary: 
 tags:
 - deep Learning
-- music
+- graph
 date: "2019-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption:
+  caption: 
   focal_point: Smart
 
 links:
@@ -30,6 +30,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-__[ Collaborated with Georgia Tech ]__
+**[ Collaborated with Geroge Manson University ]**
 
-Computational creativity is a lively research area that focuses on understanding and facilitating human creativity through the implementation of software programs. With the rapid advances in data driven algorithms such as deep learning, the exploration into computational creativity via machine learning approaches have become increasingly popular.
+Boolean Satisfiability (SAT) problem is a fundamental problem in computer science and the core of many real-world applications such as hardware and software design. However, its solving or estimating hardness of SAT is NP-hard. We are seeking for a series of a methodology by deep learning to significantly accelerate its solving and estimation.
