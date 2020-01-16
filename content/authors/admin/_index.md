@@ -22,8 +22,10 @@ bio: Zhiqian Chen is a Ph.D. candidate at Department of Computer Science, Virgin
 
 interests:
 - Graph Neural Networks
-- Interdisciplinary Application
-- Algorithmic Composition
+- Explainable AI
+- Computational Art
+- Interdisciplinary Application with ML
+
 
 education:
   courses:
