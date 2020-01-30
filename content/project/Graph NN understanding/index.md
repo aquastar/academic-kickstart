@@ -1,6 +1,6 @@
 ---
 title: Understand Graph Neural Networks
-summary: 
+summary:
 tags:
 - deep Learning
 - graph
@@ -10,7 +10,7 @@ date: "2019-08-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -30,6 +30,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-**[ Collaborated with University of Taxes at Dallas ]**
+**[ Collaborated with University of Taxes at Dallas, Rensselaer Polytechnic Institute ]**
 
-Today's deep learning is still a black box. Similarly, graph neural network is another black box. This incurs difficult in comparison and improvement since each method is acclaimed as state-of-the-art. A unified framework is needed to avoid the potential risks, which is our goal. 
+Today's deep learning is still a black box. Similarly, graph neural network is another black box. This incurs difficult in comparison and improvement since each method is acclaimed as state-of-the-art. A unified framework is needed to avoid the potential risks, which is our goal.
