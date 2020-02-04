@@ -38,7 +38,7 @@ featured: false
 #links:
 #- name:
 #  url:  
-url_pdf : ""
+url_pdf : "https://dl.acm.org/doi/10.1145/3347146.3359377"
 url_code: ''
 url_dataset: ''
 url_poster: ''
