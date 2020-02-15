@@ -79,7 +79,7 @@ user_groups:
 
 ---
 {{% alert note %}}
-I am on the job market and seeking for a research position, including a tenure-track assistant professor and a research scientist. Please feel free to contact with me if you have a match.
+I am seeking for a research position, including a tenure-track assistant professor and a research scientist. Please feel free to contact with me if you have a match.
 {{% /alert %}}
 
 - An interdisciplinary work for material discovery is accepted by **Nature Communications**, which is also selected as Editors’ Highlights of recent research on Energy Materials.
