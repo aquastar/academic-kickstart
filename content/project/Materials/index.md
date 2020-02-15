@@ -31,6 +31,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-**[ Collaborated with Toyota Research, Illinois Institute of Techonology ]**
+**[ Collaborated with Toyota Research, Illinois Tech ]**
 
 Material development heavily relies on domain knowledge and professional's intuitive, which hinders the discovery of new material. We are collaborating with material experts and propose generative models for boosting material discovery.

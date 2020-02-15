@@ -18,10 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zhiqian Chen is a Ph.D. candidate at Department of Computer Science, Virginia Tech, focusing on graph neural networks and generative model.
+bio: Zhiqian Chen is a Ph.D. candidate at Department of Computer Science, Virginia Tech, focusing on AI and interdisciplinary research.
 
 interests:
-- Graph Neural Networks
+- Graph Learning
 - Explainable AI
 - Computational Art
 - Interdisciplinary Research with ML
