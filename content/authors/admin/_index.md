@@ -78,9 +78,9 @@ user_groups:
 - Visitors
 
 ---
-{{% alert note %}}
-I am seeking for a research position, including a tenure-track assistant professor and a research scientist. Please feel free to contact with me if you have a match.
-{{% /alert %}}
+<!-- {{% alert note %}}
+Highly motivated MS and PhD students who want to do research under my advisory are encouraged to contact me by my email.
+{{% /alert %}} -->
 
 - An interdisciplinary work for material discovery is accepted by **Nature Communications**, which is also selected as Editors’ Highlights of recent research on Energy Materials.
   - [[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare) / [[Article]](https://www.nature.com/articles/s41467-019-13214-1?utm_campaign=MultipleJournals_USG_DEVICE&utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Engineering-Global)
