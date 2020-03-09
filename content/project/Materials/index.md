@@ -1,5 +1,5 @@
 ---
-title: Materials Application by Deep Learning
+title: Materials Discovery
 summary:
 tags:
 - deep Learning

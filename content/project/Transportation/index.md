@@ -1,6 +1,6 @@
 ---
-title: Spatial Temporal Problem by Graph Model
-summary: 
+title: Spatial Temporal Mining
+summary:
 tags:
 - deep Learning
 - graph
@@ -10,7 +10,7 @@ date: "2019-08-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:

@@ -79,11 +79,9 @@ user_groups:
 
 ---
 {{% alert note %}}
-I will join Computer Science and Engineering Department at Mississippi State University. Highly motivated MS and PhD students who want to do research under my advisory are encouraged to contact me by my email. More details about department admission are provided [here](https://www.cse.msstate.edu/grad/phd-cs/)
+I will join Computer Science and Engineering Department at Mississippi State University at Fall 2020. Highly motivated MS and PhD students who want to do research under my advisory are encouraged to contact me by my email. More details about department admission are provided [here](https://www.cse.msstate.edu/grad/phd-cs/)
 {{% /alert %}}
 
-- An interdisciplinary work for material discovery is accepted by **Nature Communications**, which is also selected as Editors’ Highlights of recent research on Energy Materials.
-  - [[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare) / [[Article]](https://www.nature.com/articles/s41467-019-13214-1?utm_campaign=MultipleJournals_USG_DEVICE&utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Engineering-Global)
-  / [[Blog]](https://devicematerialscommunity.nature.com/users/328140-chen-ling/posts/56441-discovering-novel-solid-state-lithium-ion-conductors-through-unsupervised-learning) / [[Nature Chem]](https://www.facebook.com/naturechemistry/posts/2469966929936783?__tn__=-R)
+- Discovery for energy material is published in **Nature Communications**. [[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare)
 - The work using graph neural network for circuit security is accepted by **DATE 2020**
 - Solution for dividing school zones is accepted by **ACM SIG-SPATIAL** and **AAAI 2020**

@@ -33,7 +33,7 @@ summary: Apply hierarchical clustering technique for characterizing Solid-State 
 
 tags:
 - material
-featured: true
+featured: false
 
 #links:
 #- name:

@@ -1,9 +1,9 @@
 ---
-title: Understand Graph Neural Networks
+title: Computational Art
 summary:
 tags:
 - deep Learning
-- graph
+- music
 date: "2019-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,6 +30,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-**[ Collaborated with University of Taxes at Dallas, Rensselaer Polytechnic Institute ]**
+__[ Collaborated with Georgia Tech ]__
 
-Today's deep learning is still a black box. Similarly, graph neural network is another black box. This incurs difficult in comparison and improvement since each method is acclaimed as state-of-the-art. A unified framework is needed to avoid the potential risks, which is our goal.
+Computational creativity is a lively research area that focuses on understanding and facilitating human creativity through the implementation of software programs. With the rapid advances in data driven algorithms such as deep learning, the exploration into computational creativity via machine learning approaches have become increasingly popular. Currently, we have been working in music generation and calligraphy.
