@@ -79,7 +79,7 @@ user_groups:
 
 ---
 {{% alert note %}}
-I will join Computer Science and Engineering Department at Mississippi State University, Highly motivated MS and PhD students who want to do research under my advisory are encouraged to contact me by my email. More details about department admission are provided [here](https://www.cse.msstate.edu/grad/phd-cs/)
+I will join Computer Science and Engineering Department at Mississippi State University. Highly motivated MS and PhD students who want to do research under my advisory are encouraged to contact me by my email. More details about department admission are provided [here](https://www.cse.msstate.edu/grad/phd-cs/)
 {{% /alert %}}
 
 - An interdisciplinary work for material discovery is accepted by **Nature Communications**, which is also selected as Editors’ Highlights of recent research on Energy Materials.
