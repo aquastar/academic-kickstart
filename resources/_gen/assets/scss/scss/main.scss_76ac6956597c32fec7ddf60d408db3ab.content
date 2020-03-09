@@ -460,7 +460,7 @@ pre {
       max-width: 960px; } }
   @media (min-width: 1200px) {
     .container {
-      max-width: 1200px; } }
+      max-width: 1250px; } }
 
 .container-fluid {
   width: 100%;
@@ -2974,7 +2974,7 @@ input[type="button"].btn-block {
 
 .navbar-toggler {
   padding: 0.25rem 0;
-  font-size: 1.125rem;
+  font-size: 1rem;
   line-height: 1;
   background-color: transparent;
   border: 1px solid transparent;
@@ -8261,7 +8261,7 @@ ul.share li:hover i {
   background-attachment: fixed; }
 
 .home-section:first-of-type {
-  padding-top: 50px; }
+  padding-top: 30px; }
 
 .home-section:nth-of-type(even) {
   background-color: #f7f7f7; }
@@ -8668,12 +8668,12 @@ ul.ul-edu li .description p.institution {
  *  Documentation layout
  **************************************************/
 .docs-article-container {
-  max-width: 760px; }
+  max-width: 800px; }
 
 /* Documentation: article footer. */
 .docs .body-footer {
   border-top: 1px solid #e8e8e8;
-  margin-top: 30px;
+  margin-top: 20px;
   padding-top: 10px;
   font-size: 14px;
   color: #707070; }
@@ -8731,7 +8731,7 @@ ul.ul-edu li .description p.institution {
       z-index: 10;
       height: calc(100vh - 70px); } } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1280px) {
   .docs-sidebar {
     flex: 0 1 320px; } }
 
@@ -8983,3 +8983,55 @@ div.mermaid {
   width: 100%;
   text-align: center;
   margin-bottom: 1rem; }
+
+body {
+  font-size: 0.9rem; }
+
+h1 {
+  font-size: 2rem;
+  font-family: "Arial Black", "Times New Roman"; }
+
+h3 {
+  font-size: 1rem; }
+
+.article-title {
+  font-size: 1.5rem; }
+
+section#featured.home-section .col-lg-4 {
+  flex: 0 0 30%;
+  max-width: 30%;
+  margin-bottom: 1rem; }
+
+section#featured.home-section .col-lg-8 {
+  flex: 0 0 95%;
+  max-width: 95%; }
+
+section#featured.home-section .col-lg-8 .media {
+  margin-bottom: 0.8rem; }
+
+section#publications.home-section .col-lg-4 {
+  flex: 0 0 40%;
+  max-width: 40%;
+  margin-bottom: 1rem; }
+
+section#publications.home-section .col-lg-8 {
+  flex: 0 0 100%;
+  max-width: 100%; }
+
+section#publications.home-section p {
+  display: inline; }
+
+section#projects.home-section .center-text {
+  text-align: left; }
+
+section#projects.home-section .projects-container {
+  margin-top: 0; }
+
+.universal-wrapper {
+  width: 1314px; }
+
+.pub-list-item p {
+  display: inline; }
+
+.container-publications div {
+  margin: 0 0; }

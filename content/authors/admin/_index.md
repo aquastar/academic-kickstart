@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Computer Science
+role: Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zhiqian Chen is a Ph.D. candidate at Department of Computer Science, Virginia Tech, focusing on AI and interdisciplinary research.
+bio: Zhiqian Chen will work as Assistant Professor at Department of Computer Science, Mississippi State University, focusing on AI research.
 
 interests:
 - Graph Learning
