@@ -30,6 +30,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-__[ Collaborated with Georgia Tech ]__
+__[ with Georgia Tech ]__
 
 Computational creativity is a lively research area that focuses on understanding and facilitating human creativity through the implementation of software programs. With the rapid advances in data driven algorithms such as deep learning, the exploration into computational creativity via machine learning approaches have become increasingly popular. Currently, we have been working in music generation and calligraphy.

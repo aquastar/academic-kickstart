@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zhiqian Chen will work as Assistant Professor at Department of Computer Science, Mississippi State University, focusing on AI research.
+bio: Zhiqian Chen will join Department of Computer Science at Mississippi State University as Assistant Professor, focusing on AI research.
 
 interests:
 - Graph Learning
@@ -79,7 +79,7 @@ user_groups:
 
 ---
 {{% alert note %}}
-I will join Computer Science and Engineering Department at Mississippi State University at Fall 2020. Highly motivated MS and PhD students who want to do research under my advisory are encouraged to contact me by my email. More details about department admission are provided [here](https://www.cse.msstate.edu/grad/phd-cs/)
+I will join Computer Science and Engineering Department of Mississippi State University at Fall 2020. Multiple fully funded Ph.D. and Master positions are available. Details about admission are provided [here](https://www.cse.msstate.edu/grad/).
 {{% /alert %}}
 
 - Discovery for energy material is published in **Nature Communications**. [[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare)

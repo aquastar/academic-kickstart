@@ -29,6 +29,16 @@ section#featured.home-section .col-lg-8 .media{
 	margin-bottom: 0.8rem;
 }
 
+section#about.home-section .col-lg-4{
+	flex: 0 0 28%;
+	max-width:28%;	
+}
+section#about.home-section .col-lg-8{
+	flex: 0 0 72%;
+	max-width: 72%;	
+}
+
+
 section#publications.home-section .col-lg-4{
 	flex: 0 0 40%;
 	max-width:40%;	
