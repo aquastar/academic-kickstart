@@ -22,7 +22,7 @@
 
 <b>[&nbsp;{{- .Params.publication_short | markdownify -}}&nbsp;{{- .Date.Format "2006" -}}&nbsp;]</b>
 <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
-<span class="article-metadata li-cite-author">{{ partial "page_metadata_authors" . }}</span>
+<span class="article-metadata li-cite-author">{{ partial "page_metadata_authors" . }}</span>.
 
 <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
