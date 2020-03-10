@@ -35,7 +35,7 @@ featured: false
 #links:
 #- name:
 #  url:
-url_pdf : "files/bigdata16storytelling.pdf"
+url_pdf : "https://ieeexplore.ieee.org/abstract/document/7840760"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'FusionGAN structure'
+  caption: ''
   focal_point: ""
   preview_only: false
 

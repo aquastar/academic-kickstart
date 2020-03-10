@@ -32,7 +32,7 @@ featured: false
 #links:
 #- name:
 #  url:
-url_pdf : "files/impolitecrawler.pdf"
+url_pdf : "https://ieeexplore.ieee.org/document/6735239/"
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -40,7 +40,7 @@ url_code: 'https://github.com/aquastar/RationalGraphNet'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'files/ratnet.pptx'
+url_slides: 'https://www.slideshare.net/czq825/rational-neural-networks-for-approximating-jump-discontinuities-of-graph-convolution-operatorx'
 url_source: ''
 url_video: ''
 
