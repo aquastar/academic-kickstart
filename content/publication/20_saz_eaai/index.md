@@ -21,8 +21,8 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Tenth AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI-20)*
-publication_short: In **AAAI-EAAI** (to appear)
+publication: Tenth AAAI Symposium on Educational Advances in Artificial Intelligence
+publication_short: AAAI-EAAI
 
 abstract:
 

@@ -18,8 +18,8 @@ publishDate: "2018-02-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM Transactions on Intelligent Systems and Technology*
-publication_short: In **TIST**
+publication: ACM Transactions on Intelligent Systems and Technology
+publication_short: TIST
 
 abstract:"The scarcity of potable water is a critical challenge in many regions around the world. Previous studies have shown that knowledge of device level water usage can lead to significant conservation. Although there is considerable interest in determining discriminative features via sparse coding for water disaggregation to separate whole house consumption into its component appliances, existing methods lack a mechanism for fitting coefficient distributions and are thus unable to accurately discriminate parallel devices' consumption. This paper proposes a Bayesian discriminative sparse coding model, referred to as Virtual Metering (VM), for this disaggregation task. Mixture-of-Gammas is employed for the prior distribution of coefficients, contributing two benefits: (1) guaranteeing the coefficients' sparseness and non-negativity; and (2) capturing the distribution of active coefficients. The resulting method effectively adapts the bases to aggregated consumption to facilitate discriminative learning in the proposed model, and devices' shape features are formalized and incorporated into Bayesian sparse coding to direct the learning of basis functions. Compact Gibbs Sampling (CGS) is developed to accelerate the inference process by utilizing the sparse structure of coefficients. The empirical results obtained from applying the new model to large-scale real and synthetic datasets revealed that VM significantly outperformed the benchmark methods."
 

@@ -21,8 +21,8 @@ publishDate: "2019-10-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nano Materials Science*
-publication_short: In **Nano Materials Science**
+publication: Nano Materials Science
+publication_short: Nano Materials Science
 
 abstract: Hydrogen energy has been recognized as “Ultimate Power Source” in the 21st century. It is a boon in these days of energy crunches and concerns about climate change because of the characterized advantages, such as high energy density, large calorific value, abundant resource, zero pollution, zero carbon emission, storable and renewable. State-of-the-art perspectives on tuning the stable thermodynamics and sluggish kinetics of dehydrogenation and re-hydrogenation of LiBH4, which has been regarded as a promising hydrogen storage alternative for onboard energy carrier applications have been discussed. Five major technological approaches are involved, including nanoengineering, catalyst modification, ions substitution, reactant destabilization and a novel process termed as high-energy ball milling with in-situ aerosol spraying (BMAS). It is worth noting that BMAS has the potential to help overcome the kinetic barriers for thermodynamically favorable systems like LiBH4 + MgH2 mixture and provide thermodynamic driving force to enhance hydrogen release at a lower temperature.
 

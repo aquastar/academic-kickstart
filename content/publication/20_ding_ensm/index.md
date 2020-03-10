@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Energy Storage Materials
-publication_short: In **Energy Storage Materials** (to appear)
+publication_short:  Energy Storage Materials
 
 abstract: The prediction of hydrogen release ability is indispensable to evaluating hydrogen storage performance of LiBH 4 -based mixtures before experimentation. In order to achieve this goal, ensemble machine learning is employed to automatically infer the relationship between factors (i.e., sample preparation, mixing conditions and operational variables) and target (H 2 release amount), providing exceptional insight into hydrogen release ability. Specifically, the importance ranking of major variables for the hydrogen release of LiBH 4 has been proposed for the first time based on the constructed uni-component catalysts database. We train our developed EoE model on 2,071 uni-component catalysts data, and attempt to predict the hydrogen release amounts of LiBH 4 doping with the unseen bi-component catalysts. The appealing results demonstrate the effectiveness and robustness of EoE. The procedure established in this study presents a novel approach for accelerating the research and development of hydrogen storage materials over various catalysts.
 

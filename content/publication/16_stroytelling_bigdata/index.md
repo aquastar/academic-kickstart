@@ -19,8 +19,8 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Big Data*
-publication_short: In **BigData**
+publication: IEEE International Conference on Big Data
+publication_short: Big Data
 
 abstract:
 

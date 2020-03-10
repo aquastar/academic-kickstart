@@ -18,8 +18,8 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence*
-publication_short: In **IJCAI**
+publication: Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence
+publication_short: IJCAI
 
 abstract: Deriving event storylines is an effective summarization method to succinctly organize extensive information, which can significantly alleviate the pain of information overload. The critical challenge is the lack of widely recognized definition of storyline metric. Prior studies have developed various approaches based on different assumptions about users' interests. These works can extract interesting patterns, but their assumptions do not guarantee that the derived patterns will match users' preference. On the other hand, their exclusiveness of single modality source misses cross-modality information. This paper proposes a method, multimodal imitation learning via generative adversarial networks(MIL-GAN), to directly model users' interests as reflected by various data. In particular, the proposed model addresses the critical challenge by imitating users' demonstrated storylines. Our proposed model is designed to learn the reward patterns given user-provided storylines and then applies the learned policy to unseen data. The proposed approach is demonstrated to be capable of acquiring the user's implicit intent and outperforming competing methods by a substantial margin with a user study.
 

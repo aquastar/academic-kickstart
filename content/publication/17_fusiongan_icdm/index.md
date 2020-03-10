@@ -19,8 +19,8 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Data Mining 2017*
-publication_short: In **ICDM**
+publication: IEEE International Conference on Data Mining 2017
+publication_short: ICDM
 
 abstract: FusionGAN is a novel genre fusion framework for music generation that integrates the strengths of generative adversarial networks and dual learning. In particular, the proposed method offers a dual learning extension that can effectively integrate the styles of the given domains. To efficiently quantify the difference among diverse domains and avoid the vanishing gradient issue, FusionGAN provides a Wasserstein based metric to approximate the distance between the target domain and the existing domains. Adopting the Wasserstein distance, a new domain is created by combining the patterns of the existing domains using adversarial learning. Experimental results on public music datasets demonstrated that our approach could effectively merge two genres.
 

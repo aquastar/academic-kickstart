@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference onGeographical Information Systems Theory, Applications and Management*
-publication_short: In **GISTAM**
+publication: International Conference onGeographical Information Systems Theory, Applications and Management
+publication_short: GISTAM
 
 abstract: Drones have become ubiquitous in performing risky and labor intensive areal tasks cheaply and safely. To allow them to be autonomous, their flight plan needs to be pre-built for them. Existing works do not precalculate flight paths but instead focus on navigation through camera based image processing techniques, genetic or geometric algorithms to guide the drone during flight. That makes flight navigation complex and risky. In this paper we present automated flight plan builder DIFPL which pre-builds flight plans for drones to survey a large area. The flight plans are built for subregions and fed into drones which allow them to navigate autonomously. DIFPL employs distributed paradigm on Hadoop MapReduce framework. Distribution is achieved by processing sections or subregions in parallel. Experiments performed with network and elevation datasets validate the efficiency of DIFPL in building optimal flight plans.
 
