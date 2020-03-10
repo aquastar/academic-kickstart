@@ -7,7 +7,7 @@ authors:
 - Xuchao Zhang
 - Chang-Tien Lu
 date: "2018-10-01T00:00:00Z"
-doi: ""
+doi: "10.1109/ICDM.2018.00021"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-11-01T00:00:00Z"

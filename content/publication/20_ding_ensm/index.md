@@ -8,7 +8,7 @@ authors:
 - Wenhui Ma
 - Leon Shaw
 date: "2019-12-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.ensm.2019.12.010"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"

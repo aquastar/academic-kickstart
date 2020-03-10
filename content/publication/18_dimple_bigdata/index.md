@@ -5,7 +5,7 @@ authors:
 - admin
 - Chang-Tien Lu
 date: "2018-07-30T00:00:00Z"
-doi: ""
+doi: "10.1186/s40537-018-0134-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -31,7 +31,7 @@ featured: false
 
 #links:
 #- name:
-#  url: 
+#  url:
 url_pdf : "https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0134-7"
 url_code: ''
 url_dataset: ''
@@ -42,7 +42,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
   focal_point: ""
@@ -63,5 +63,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-

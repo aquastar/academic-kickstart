@@ -55,10 +55,13 @@ social:
   link: https://scholar.google.com/citations?user=lwfx98UAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: http//github.com/aquastar
+  link: https://github.com/aquastar
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Zhiqian_Chen2
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4112-9647
 - icon: cv
   icon_pack: ai
   link: cv.pdf
@@ -69,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "czq@vt.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  

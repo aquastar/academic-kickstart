@@ -9,7 +9,7 @@ authors:
 - Wenhui Ma
 - Leon Shaw
 date: "2019-9-10T00:00:00Z"
-doi: ""
+doi: "10.1016/j.nanoms.2019.09.003"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-10-10T00:00:00Z"

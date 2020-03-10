@@ -8,7 +8,7 @@ authors:
 - Chang-Tien Lu
 - Naren Ramakrishnan
 date: "2019-10-01T00:00:00Z"
-doi: ""
+doi: "10.24963/ijcai.2019/364"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"

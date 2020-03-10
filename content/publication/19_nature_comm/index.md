@@ -11,7 +11,7 @@ authors:
 - Yifei Mo
 - Chen Ling
 date: "2019-11-24T00:00:00Z"
-doi: ""
+doi: "10.1038/s41467-019-13214-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-11-20T00:00:00Z"

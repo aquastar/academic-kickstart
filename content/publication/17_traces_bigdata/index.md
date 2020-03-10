@@ -7,7 +7,7 @@ authors:
 - Arnold P. Boedihardjo
 - Chang-Tien Lu
 date: "2017-07-01T00:00:00Z"
-doi: ""
+doi: "10.1109/BigData.2017.8258093"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"
