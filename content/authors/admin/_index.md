@@ -15,7 +15,7 @@ role: Computer Science
 # Organizations/Affiliations
 organizations:
 - name: Virginia Tech
-  url: ""
+  url: "cs.vt.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Zhiqian Chen will join Department of Computer Science at Mississippi State University as Assistant Professor, focusing on AI research.
@@ -24,7 +24,7 @@ interests:
 - Graph Learning
 - Explainable AI
 - Computational Art
-- Interdisciplinary Research with ML
+- Interdisciplinary Application with ML
 
 
 education:
@@ -81,10 +81,10 @@ user_groups:
 - Visitors
 
 ---
-{{% alert note %}}
-I will join Computer Science and Engineering Department of Mississippi State University at Fall 2020. Multiple fully funded Ph.D. and Master positions are available. Details about admission are provided [here](https://www.cse.msstate.edu/grad/).
-{{% /alert %}}
-- I will join Computer Science and Engineering Department of Mississippi State University at Fall 2020. Multiple fully funded Ph.D. and Master positions are available. Details about admission are provided [here](https://www.cse.msstate.edu/grad/).
+
+**I will join Computer Science and Engineering Department of Mississippi State University at Fall 2020. Multiple fully funded Ph.D. and Master positions are available. Details about admission are provided [here](https://www.cse.msstate.edu/grad/).**
+
+- A Survey for Graph Neural Networks is online: [[preprint]](https://arxiv.org/abs/2002.11867)
 - Discovery for energy material is published in **Nature Communications**. [[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare)
 - The work using graph neural network for circuit security is accepted by **DATE 2020**
 - Solution for dividing school zones is accepted by **ACM SIG-SPATIAL** and **AAAI 2020**
