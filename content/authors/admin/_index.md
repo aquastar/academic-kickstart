@@ -84,7 +84,7 @@ user_groups:
 {{% alert note %}}
 I will join Computer Science and Engineering Department of Mississippi State University at Fall 2020. Multiple fully funded Ph.D. and Master positions are available. Details about admission are provided [here](https://www.cse.msstate.edu/grad/).
 {{% /alert %}}
-
+- I will join Computer Science and Engineering Department of Mississippi State University at Fall 2020. Multiple fully funded Ph.D. and Master positions are available. Details about admission are provided [here](https://www.cse.msstate.edu/grad/).
 - Discovery for energy material is published in **Nature Communications**. [[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare)
 - The work using graph neural network for circuit security is accepted by **DATE 2020**
 - Solution for dividing school zones is accepted by **ACM SIG-SPATIAL** and **AAAI 2020**
