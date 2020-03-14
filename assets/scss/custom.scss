@@ -28,6 +28,16 @@ h3{
 }
 
 
+section#about.home-section .col-lg-4{
+	flex: 0 0 31%;
+	max-width:31%;	
+}
+section#about.home-section .col-lg-8{
+	flex: 0 0 69%;
+	max-width: 69%;	
+}
+
+
 section#featured.home-section .col-lg-4{
 	flex: 0 0 60%;
 	max-width:60%;
@@ -42,14 +52,6 @@ section#featured.home-section .col-lg-8 .media{
 	margin-bottom: 0.8rem;
 }
 
-section#about.home-section .col-lg-4{
-	flex: 0 0 29%;
-	max-width:29%;	
-}
-section#about.home-section .col-lg-8{
-	flex: 0 0 71%;
-	max-width: 71%;	
-}
 
 
 section#publications.home-section .col-lg-4{
