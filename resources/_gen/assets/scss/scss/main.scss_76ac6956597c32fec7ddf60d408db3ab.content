@@ -9007,8 +9007,8 @@ h3 {
   margin-top: 10px; }
 
 section#featured.home-section .col-lg-4 {
-  flex: 0 0 30%;
-  max-width: 30%;
+  flex: 0 0 60%;
+  max-width: 60%;
   margin-bottom: 1rem; }
 
 section#featured.home-section .col-lg-8 {
@@ -9019,16 +9019,16 @@ section#featured.home-section .col-lg-8 .media {
   margin-bottom: 0.8rem; }
 
 section#about.home-section .col-lg-4 {
-  flex: 0 0 28%;
-  max-width: 28%; }
+  flex: 0 0 29%;
+  max-width: 29%; }
 
 section#about.home-section .col-lg-8 {
-  flex: 0 0 72%;
-  max-width: 72%; }
+  flex: 0 0 71%;
+  max-width: 71%; }
 
 section#publications.home-section .col-lg-4 {
-  flex: 0 0 40%;
-  max-width: 40%;
+  flex: 0 0 80%;
+  max-width: 80%;
   margin-bottom: 1rem; }
 
 section#publications.home-section .col-lg-8 {
