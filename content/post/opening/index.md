@@ -9,15 +9,15 @@ featured:
   focal_point: Smart
   preview_only: true
 ---
+I am looking for self-motivated students who are interested in the following areas:
+- Network Science, Graph Neural Networks;
+- Chem-Informatics, Machine Learning for Material Science;
+- Computational Art, Music Generation;
+- Spatial Data Mining, Ubran Computing;
+- Cyber Security, Software/Hardware Security, Block-Chain Transaction;
 
-### My research include but not limited to:
-- Network Science
-- Chem-Informatics, Machine Learning for Material Science
-- Computational Art, Music Generation
-- Spatial Data Mining
-- Block-chain Transaction
-- Graph Learning for Integrated Circuit
+For Ph.D. student, please read the graduate admission requirements of MSU at [here](https://www.cse.msstate.edu/grad/).
 
-### Current openings include **Ph.D.** and **internship**. For Ph.D. student, please read the graduate admission requirements of MSU at [here](https://www.cse.msstate.edu/grad/).
+Please send your CV, academic transcripts, GRE/TOEFL scores, and other supporting documents to me. I will contact you if there is a match.
 
-### If you are interested in my openings, please send your CV and transcripts. I will contact you if there is a match.
+Students who want to do **internship** and have matching interests are also welcome to contact me.

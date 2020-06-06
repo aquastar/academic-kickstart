@@ -8985,11 +8985,11 @@ div.mermaid {
   margin-bottom: 1rem; }
 
 body {
-  font-size: 0.9rem; }
+  font-size: 1.1rem;
+  font-family: Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif; }
 
 h1 {
-  font-size: 2rem;
-  font-family: "Arial Black", "Times New Roman"; }
+  font-size: 2rem; }
 
 h3 {
   font-size: 1rem; }
