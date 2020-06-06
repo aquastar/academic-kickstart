@@ -75,5 +75,5 @@ I will join Computer Science and Engineering Department of Mississippi State Uni
 - I will serve on program committee of [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/)
 - A Survey for Graph Neural Networks is online: [[preprint]](https://arxiv.org/abs/2002.11867)
 - Discovery for energy material is published in **Nature Communications**. [[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare)
-- The work using graph neural network for circuit security is accepted by **DATE 2020**
+- The work using graph neural network for circuit deobfuscation is accepted by **DATE 2020**
 - Solution for dividing school zones is accepted by **ACM SIG-SPATIAL** and **AAAI 2020**
