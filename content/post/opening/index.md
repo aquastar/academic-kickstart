@@ -1,13 +1,16 @@
 ---
 title: Openings
+subtitle: "Recent Opportunities "
 date: 2020-05-10T02:15:36.550Z
-subtitle:
-summary:
+summary: About Project Content, Position Types.
 draft: false
 featured:
   filename: featured
   focal_point: Smart
   preview_only: true
+image:
+  filename: featured.jpg
+  preview_only: false
 ---
 I am looking for self-motivated students who are interested in the following areas:
 - Network Science, Graph Neural Networks;
