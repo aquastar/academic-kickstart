@@ -20,7 +20,7 @@ I am looking for self-motivated Ph.D. students who are interested in the followi
 * Chem-Informatics, Machine Learning for Material Science;
 * Computational Art, Music Generation;
 * Spatial Data Mining, Urban Computing;
-* Cyber Security, Software/Hardware Security, Block-Chain Transaction;
+* Cyber Security, Software/Hardware Security, Block-Chain Transaction.
 
 For **Ph.D. students**, please read the graduate admission requirements of MSU at [here](https://www.cse.msstate.edu/grad/).
 
