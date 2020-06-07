@@ -26,6 +26,8 @@ Students who want to do **Internships** and have matching interests are also wel
 
 Please send your CV, academic transcripts, GRE/TOEFL scores, and other supporting documents to me. I will contact you if there is a match.
 
+---
+
 ## PostDoc Positions in a Collaborating Lab at UC Davis
 University of California Davis Department of Electrical and Computer Engineering is recruiting a talented postdoctoral researchers to support the growth of the program and expand its research activities in the general area of machine learning. In particular, we are looking for an expert with strong scientific background, good communication skills, and solid experience in **Machine Learning**
 
