@@ -12,7 +12,7 @@ image:
   filename: featured.jpg
   preview_only: false
 ---
-## Ph.D. Students
+## **Ph.D. Students**
 
 I am looking for self-motivated Ph.D. students who are interested in the following areas:
 
@@ -30,7 +30,7 @@ Please send your CV, academic transcripts, GRE/TOEFL scores (for international a
 
 - - -
 
-## Postdoc Positions in a Collaborating Lab at UC Davis
+## **Postdoc Positions in a Collaborating Lab at UC Davis**
 
 University of California Davis Department of Electrical and Computer Engineering is recruiting a talented postdoctoral researchers to support the growth of the program and expand its research activities in the general area of machine learning. In particular, we are looking for an expert with strong scientific background, good communication skills, and solid experience in **Machine Learning**. The successful candidate will perform research in the area of machine learning working with a group of 10+ PhD student researchers. Some of the topics of interests are:
 - Graph Analytics, Graph Neural Network
