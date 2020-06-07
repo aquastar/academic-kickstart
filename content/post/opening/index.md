@@ -1,6 +1,6 @@
 ---
 title: Openings
-subtitle: "Recent Opportunities "
+subtitle: Recent Opportunities Regarding Ph.D/Internship/PostDoc
 date: 2020-05-10T02:15:36.550Z
 summary: About Project Content, Position Types.
 draft: false
