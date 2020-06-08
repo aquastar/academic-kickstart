@@ -72,7 +72,7 @@ I will join Computer Science and Engineering Department of Mississippi State Uni
 ### Ph.D./PostDoc/Internship openings are available, see [here](/post/opening/).
 
 ### News
-- I will serve on program committee of [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/)
+- I will serve on program committee of [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
 - A Survey for Graph Neural Networks is online: [[preprint]](https://arxiv.org/abs/2002.11867)
 - Discovery for energy material is published in **Nature Communications**. [[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare)
 - The work using graph neural network for circuit deobfuscation is accepted by **DATE 2020**
