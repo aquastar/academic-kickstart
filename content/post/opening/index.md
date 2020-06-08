@@ -20,7 +20,7 @@ I am looking for self-motivated Ph.D. students who are interested in the followi
 * Chem-Informatics, Machine Learning for Material Science;
 * Computational Art, Music Generation;
 * Spatial Data Mining, Urban Computing;
-* Cyber Security, Software/Hardware Security, Block-Chain Transaction.
+* Machine Learning for Cyber Security, Software/Hardware Security, Block-Chain Transaction.
 
 For **Ph.D. students**, please read the graduate admission requirements of MSU at [here](https://www.cse.msstate.edu/grad/).
 
@@ -42,15 +42,15 @@ University of California Davis Department of Electrical and Computer Engineering
 Requirement:
 
 * Candidates should have completed a doctoral degree in Computer Science, Computer Engineering,  or Electrical Engineering at the time of hire.
-* Candidates with strong multidisciplinary skills covering more than one of the areas listed above are particularly encouraged to apply. 
+* Candidates with strong multidisciplinary skills covering more than one of the areas listed above are particularly encouraged to apply.
 * Extremely well-qualified candidates with slightly different qualifications and/or research focus might be also considered under special circumstances.
 
 Other essential qualifications include:
 
-* An excellent track of scientific publications; 
-* Excellent English-language writing skills; 
-* Ability to meet deadlines, work well with minimal direction and with a team, and produce high-quality research outputs; 
-* Good time management and recordkeeping. 
+* An excellent track of scientific publications;
+* Excellent English-language writing skills;
+* Ability to meet deadlines, work well with minimal direction and with a team, and produce high-quality research outputs;
+* Good time management and recordkeeping.
 
 Desirable qualifications include:
 
