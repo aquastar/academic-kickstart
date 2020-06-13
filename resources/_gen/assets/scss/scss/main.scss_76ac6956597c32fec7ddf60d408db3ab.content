@@ -8998,21 +8998,13 @@ h3 {
   font-size: 1.1rem; }
 
 .article-container {
-  max-width: 1250px; }
+  max-width: 1200px; }
 
 .home-section:first-of-type {
-  padding: 15px; }
+  padding: 10px; }
 
 #profile .network-icon {
   margin-top: 10px; }
-
-section#about.home-section .col-lg-4 {
-  flex: 0 0 31%;
-  max-width: 31%; }
-
-section#about.home-section .col-lg-8 {
-  flex: 0 0 69%;
-  max-width: 69%; }
 
 section#featured.home-section .col-lg-4 {
   flex: 0 0 60%;
@@ -9045,7 +9037,7 @@ section#projects.home-section .projects-container {
   margin-top: 0; }
 
 .universal-wrapper {
-  width: 1314px; }
+  width: 1200px; }
 
 .pub-list-item p {
   display: inline; }

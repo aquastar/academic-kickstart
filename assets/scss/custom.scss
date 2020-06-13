@@ -16,11 +16,11 @@ h3{
 
 
 .article-container{
-	max-width: 1250px;
+	max-width: 1200px;
 }
 
 .home-section:first-of-type{
-	padding: 15px;
+	padding: 10px;
 }
 
 #profile .network-icon {
@@ -28,14 +28,14 @@ h3{
 }
 
 
-section#about.home-section .col-lg-4{
-	flex: 0 0 31%;
-	max-width:31%;	
-}
-section#about.home-section .col-lg-8{
-	flex: 0 0 69%;
-	max-width: 69%;	
-}
+// section#about.home-section .col-lg-4{
+// 	flex: 0 0 25%;
+// 	max-width:25%;
+// }
+// section#about.home-section .col-lg-8{
+// 	flex: 0 0 70%;
+// 	max-width: 70%;
+// }
 
 
 section#featured.home-section .col-lg-4{
@@ -56,16 +56,16 @@ section#featured.home-section .col-lg-8 .media{
 
 section#publications.home-section .col-lg-4{
 	flex: 0 0 80%;
-	max-width:80%;	
+	max-width:80%;
 	margin-bottom: 1rem
 }
 section#publications.home-section .col-lg-8{
 	flex: 0 0 100%;
-	max-width: 100%;	
+	max-width: 100%;
 }
 
 section#publications.home-section p{
-	display: inline	
+	display: inline
 }
 
 section#projects.home-section .center-text{
@@ -78,11 +78,11 @@ section#projects.home-section .projects-container{
 
 
 .universal-wrapper{
-	width: 1314px
+	width: 1200px
 }
 
 .pub-list-item p{
-	display: inline	
+	display: inline
 }
 
 .container-publications div{
