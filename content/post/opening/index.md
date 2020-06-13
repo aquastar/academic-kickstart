@@ -26,6 +26,8 @@ For **Ph.D. students**, please read the graduate admission requirements of MSU a
 
 Students who want to do **Internships** and have matching interests are also welcome to contact me.
 
+Motivated students who are interested in my research directions are welcome to contact me for brainstorms, discussions and collaborations.
+
 Please send your CV, academic transcripts, GRE/TOEFL scores (for international applicants), and other supporting documents to me. I will contact you if there is a match.
 
 - - -
