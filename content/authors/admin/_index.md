@@ -71,7 +71,8 @@ I will join Computer Science and Engineering Department of Mississippi State Uni
 
 - ### Ph.D./PostDoc/Internship openings are available, see [here](/post/opening/).
 - [Jun. 2020] I will serve on program committee of [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
-- [Mar. 2020] A Survey for Graph Neural Networks is online: [[preprint]](https://arxiv.org/abs/2002.11867)
-- [Dec. 2019] Discovery for energy material is published in **Nature Communications**. [[Editors’ Highlights]](https://www.nature.com/collections/dmmhtcypsc/content/prateek-dongare)
+- [Mar. 2020] A survey for Graph Neural Networks is online: [[preprint]](https://arxiv.org/abs/2002.11867)
+- [Dec. 2019][Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
+  - Selected as one of Top 50 Chemistry and Materials Sciences Articles[[Top 50 Collection]](https://www.nature.com/collections/giacagiaca)
 - [Oct. 2019] The work using graph neural network for circuit deobfuscation is accepted by **DATE 2020**
 - [Oct. 2019] Solution for dividing school zones is accepted by **ACM SIG-SPATIAL** and **AAAI 2020**
