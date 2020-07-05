@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Science
+role: Assistant Professor in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Virginia Tech
-  url: "cs.vt.edu"
+- name: Mississippi State University
+  url: "cse.msstate.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Zhiqian Chen will join Department of Computer Science at Mississippi State University as Assistant Professor, focusing on AI research.
