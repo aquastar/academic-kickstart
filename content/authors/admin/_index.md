@@ -71,6 +71,8 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 
 - ### Ph.D./Internship openings are available, see [here](/post/opening/).
 - [Aug. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org).
+	- Kalman Filtering for Spatial Temporal Graph 
+	- Case Study for Dividing School Zones (Nominations for Best Paper Award)
 - [Aug. 2020] I will serve on program committee of [AAAI 20'](https://aaai.org/Conferences/AAAI-20/aaai20call/).
 - [Jun. 2020] I will serve on program committee of [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
 - [Mar. 2020] A survey for Graph Neural Networks is online: [[preprint]](https://arxiv.org/abs/2002.11867)
