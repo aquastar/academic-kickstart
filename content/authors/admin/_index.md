@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 
 ---
-I will join Computer Science and Engineering Department of Mississippi State University in Fall 2020. Before joining MSU, I have been working as research assistant at Virginia Tech under the supervision of Chang-Tien Lu. My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively. I received an outstanding contribution award from Toyota Research North America in 2016. My research focuses on graph mining, spatial data mining, machine learning for natural science, computational art, and explainable AI.
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MSU in 2020, I have been working as a research assistant at Virginia Tech under the supervision of Chang-Tien Lu. My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively. I received an outstanding contribution award from Toyota Research North America in 2016. My research focuses on graph mining, spatial data mining, machine learning for natural science, computational art, and explainable AI.
 
 - ### Ph.D./Internship openings are available, see [here](/post/opening/).
 - [Aug. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org).
