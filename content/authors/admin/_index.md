@@ -69,7 +69,9 @@ user_groups:
 ---
 I will join Computer Science and Engineering Department of Mississippi State University in Fall 2020. Before joining MSU, I have been working as research assistant at Virginia Tech under the supervision of Chang-Tien Lu. My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively. I received an outstanding contribution award from Toyota Research North America in 2016. My research focuses on graph mining, spatial data mining, machine learning for natural science, computational art, and explainable AI.
 
-- ### Ph.D./PostDoc/Internship openings are available, see [here](/post/opening/).
+- ### Ph.D./Internship openings are available, see [here](/post/opening/).
+- [Aug. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org).
+- [Aug. 2020] I will serve on program committee of [AAAI 20'](https://aaai.org/Conferences/AAAI-20/aaai20call/).
 - [Jun. 2020] I will serve on program committee of [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
 - [Mar. 2020] A survey for Graph Neural Networks is online: [[preprint]](https://arxiv.org/abs/2002.11867)
 - [Dec. 2019][Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
