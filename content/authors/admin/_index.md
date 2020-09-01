@@ -73,7 +73,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 - [Aug. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org).
 	- Kalman Filtering for Spatial Temporal Graph 
 	- Case Study for Dividing School Zones (Nomination for Best Paper Award)
-- [Aug. 2020] I will serve on program committee of [AAAI 20'](https://aaai.org/Conferences/AAAI-20/aaai20call/).
+- [Aug. 2020] I will serve on program committee of [AAAI 21'](https://aaai.org/Conferences/AAAI-21/).
 - [Jun. 2020] I will serve on program committee of [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
 - [Mar. 2020] A survey for Graph Neural Networks is online: [[preprint]](https://arxiv.org/abs/2002.11867)
 - [Dec. 2019][Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
