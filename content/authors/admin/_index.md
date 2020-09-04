@@ -70,8 +70,8 @@ user_groups:
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech under the supervision of Chang-Tien Lu. <!-- My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively.  -->I received an outstanding contribution award from Toyota Research North America in 2016. Currently, I focus on graph machine learning.
 
 - ### Ph.D./Internship openings are available, see [here](/post/opening/).
-	- Researchers who are interested in my research are welcome to contact me for discussions and collaborations.
----
+	- Researchers who are interested in my direction are welcome to contact me for discussions/collaborations
+-----
 - [Aug. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org).
 	- Kalman Filtering for Spatio-Temporal Graph Convolutional Network
 	- Case Study for Dividing School Zones (Nomination for Best Paper Award)
