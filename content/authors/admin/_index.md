@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor in Computer Science
+role: Assistant Professor in Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ user_groups:
 ---
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech under the supervision of Chang-Tien Lu. <!-- My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively.  -->I received an outstanding contribution award from Toyota Research North America in 2016. Currently, I focus on graph machine learning and its applications.
 
-- ### Ph.D./Internship [openings](/post/opening/) are available. Researchers who are interested in my direction are welcome to contact me for discussions/collaborations
+- ### [Openings](/post/opening/) are available. Researchers who are interested in my direction are welcome to contact me for discussions/collaborations
 -----
 - [Sept. 2020] One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
 - [Sept. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org).
