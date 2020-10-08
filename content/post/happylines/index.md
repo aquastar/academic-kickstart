@@ -1,8 +1,8 @@
 ---
-title: Openings
-subtitle: Recent Opportunities Regarding Ph.D/ Internship/ Postdoc
+title: ML Conference Deadlines
+subtitle: 
 date: 2020-05-10T02:15:36.550Z
-summary: About Project Content, Position Types.
+summary: 
 draft: false
 featured:
   filename: featured
