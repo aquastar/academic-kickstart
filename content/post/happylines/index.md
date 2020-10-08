@@ -15,6 +15,14 @@ image:
 ---
 
 ```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
+
+```mermaid
 gantt
   dateFormat  YYYY-MM-DD
   section Section
