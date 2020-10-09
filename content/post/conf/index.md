@@ -1,15 +1,15 @@
 ---
-title: Openings
-subtitle: Recent Opportunities Regarding Ph.D/ Internship/ Postdoc
-date: 2020-05-10T02:15:36.550Z
-summary: About Project Content, Position Types.
+title: Conference Dates
+subtitle: Recent Conferences on AI/ML/DM
+date: 2020-10-05T02:15:36.550Z
+summary: Submission Deadlines and Notification Date
 draft: false
 featured:
   filename: featured
   focal_point: Smart
   preview_only: true
 image:
-  filename: featured.jpg
+  filename:
   preview_only: false
 ---
 
