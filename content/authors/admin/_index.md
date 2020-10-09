@@ -18,11 +18,11 @@ organizations:
   url: "cse.msstate.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zhiqian Chen will join Department of Computer Science at Mississippi State University as Assistant Professor, focusing on AI research.
+bio: Zhiqian Chen is an Assistant Professor at Department of Computer Science and Engineering at Mississippi State University, focusing on graph machine learning.
 
 
-interests:
-education:
+interests: graph machine learning, spatial data mining
+education: Ph.D. Virginia Tech, 2020
 
 
 # Social/Academic Networking
