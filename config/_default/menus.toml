@@ -8,11 +8,6 @@
   url = "#about"
   weight = 10
 
-# [[main]]
-#   name = "Posts"
-#   url = "#posts"
-#   weight = 20
-
 [[main]]
   name = "Research"
   url = "#projects"
@@ -24,12 +19,12 @@
   weight = 40
 
 [[main]]
-  name = "Opening"
-  url = "/post/opening/"
+  name = "Post"
+  url = "/post/"
   weight = 50
 
 [[main]]
-  name = "MyRelated.work"
+  name = "MyRelated.Work"
   url = "https://myrelated.work"
   weight = 60
 
