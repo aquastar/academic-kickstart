@@ -27,7 +27,17 @@ gantt
     CIKM 21:cikm, 05/15/21, 08/14/21
     ICDM 21:icdm, 06/01/21, 08/01/21
   section proposal
-    equity: active, msu, 10/05/20, 30d
+    equity: active, msu, 10/05/20, 20d
     CRII: crit, crii, 09/20/21, 90d 
+
+  click cvpr href "http://cvpr2021.thecvf.com/"
+  click iccv href "http://iccv2021.thecvf.com/"
+  click icmk href "https://mermaidjs.github.io/"
+  click ijcai href "http://www.ijcai21.org/"
+  click kdd href "http://www.kdd.org/kdd2021"
+  click www href "https://www2021.thewebconf.org/"
+  click cikm href "https://www.cikm2021.org/"
+  click icdm href "http://icdm2021.bigke.org"
+
 
 ```
