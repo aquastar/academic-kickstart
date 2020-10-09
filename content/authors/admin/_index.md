@@ -14,7 +14,7 @@ role: Assistant Professor in Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Mississippi State University
+- name: Computer Sceience and Engineering, Mississippi State University
   url: "cse.msstate.edu"
 
 # Short bio (displayed in user profile at end of posts)
