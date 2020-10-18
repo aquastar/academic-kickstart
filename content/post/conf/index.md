@@ -27,7 +27,6 @@ gantt
     KDD 21:active, kdd, 02/13/21, 05/15/21
     CIKM 21:cikm, 05/15/21, 08/14/21
     ICDM 21:icdm, 06/01/21, 08/01/21
-    MM 21:acmmm, 05/10/21, 07/25/21
   section proposal
     equity: active, msu, 10/05/20, 20d
     CRII: crit, crii, 09/20/21, 90d 
