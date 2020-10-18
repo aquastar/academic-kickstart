@@ -35,7 +35,7 @@ gantt
 
   click cvpr href "http://cvpr2021.thecvf.com/"
   click iccv href "http://iccv2021.thecvf.com/"
-  click icmk href "https://mermaidjs.github.io/"
+  click icml href "https://mermaidjs.github.io/"
   click ijcai href "http://www.ijcai-21.org/"
   click kdd href "http://www.kdd.org/kdd2021"
   click www href "https://www2021.thewebconf.org/"
