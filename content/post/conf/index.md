@@ -22,6 +22,8 @@ gantt
     IJCAI 21 :crit, ijcai, 01/12/21, 04/25/21
     ICCV 21 :iccv, 03/17/21, 07/22/21
     AAAI 21 :aaai, 09/09/20, 12/01/20
+    MM 21:mm, 05/17/21, 07/25/21
+    MM 21 BNI:mmbni, 06/07/21, 07/15/21
   section Conf TBD
     ICML 21:active, icml, 01/31/21, 06/01/21
     KDD 21:active, kdd, 02/13/21, 05/15/21
@@ -39,6 +41,7 @@ gantt
   click www href "https://www2021.thewebconf.org/"
   click cikm href "https://www.cikm2021.org/"
   click icdm href "http://icdm2021.bigke.org"
+  click mm href "https://2020.acmmm.org/index.html"
   click crii href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504952"
 ```
 
