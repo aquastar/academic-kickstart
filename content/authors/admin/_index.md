@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Zhiqian Chen is an Assistant Professor at Department of Computer Science and Engineering at Mississippi State University, focusing on graph machine learning.
 
-interests:
+<!-- interests:
 - Graph Machien Learning
 - Spatial Data Mining
 
 education:
-  courses:
+  courses: -->
 
 
 # Social/Academic Networking
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech under the supervision of Chang-Tien Lu. <!-- My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively.  -->I received an outstanding contribution award from Toyota Research North America in 2016. Currently, I focus on graph machine learning and its applications.
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech under the supervision of Chang-Tien Lu. <!-- My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively.  -->I received an outstanding contribution award from Toyota Research North America in 2016. Currently, I am focusing on **graph machine learning** and its applications.
 
 - ### [Openings](/post/opening/) are available. Researchers who are interested in my direction are welcome to contact me for discussions/collaborations
 -----
