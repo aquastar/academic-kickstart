@@ -26,9 +26,6 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. 
-    institution: Virginia Tech
-    year: 2020
 
 
 # Social/Academic Networking
