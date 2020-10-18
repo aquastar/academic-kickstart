@@ -20,12 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Zhiqian Chen is an Assistant Professor at Department of Computer Science and Engineering at Mississippi State University, focusing on graph machine learning.
 
-<!-- interests:
-- Graph Machien Learning
-- Spatial Data Mining
+interests:
+
 
 education:
-  courses: -->
 
 
 # Social/Academic Networking
