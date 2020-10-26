@@ -39,7 +39,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=lwfx98UAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=lwfx98UAAAAJhl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/aquastar
@@ -72,7 +72,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 
 - ### [Openings](/post/opening/) are available. Researchers who are interested in my direction are welcome to contact me for discussions/collaborations
 -----
-- [Sept. 2020] One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
+- [Oct. 2020] One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
 - [Sept. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org).
 	- Kalman Filtering for Spatio-Temporal Graph Convolutional Network
 	- Case Study for Dividing School Zones (Nomination for Best Paper Award)
