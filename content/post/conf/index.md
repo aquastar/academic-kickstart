@@ -30,7 +30,8 @@ gantt
     CIKM 21:cikm, 05/15/21, 08/14/21
     ICDM 21:icdm, 06/01/21, 08/01/21
   section proposal
-    equity: active, msu, 10/05/20, 20d
+    RWJF: crit, rwjf, 11/14/20, 60d
+    HNDS: crit, hnds, 02/04/21, 180d
     CRII: crit, crii, 09/20/21, 90d 
 
   click cvpr href "http://cvpr2021.thecvf.com/"
@@ -43,4 +44,6 @@ gantt
   click icdm href "http://icdm2021.bigke.org"
   click mm href "https://2020.acmmm.org/index.html"
   click crii href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504952"
+  click hnds https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505702
+  click rwjf https://anr.rwjf.org/viewCfp.do?cfpId=1509&cfpOverviewId=
 ```
