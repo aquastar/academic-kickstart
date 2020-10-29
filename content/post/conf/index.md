@@ -30,7 +30,7 @@ gantt
     ICDM 21:icdm, 06/01/21, 08/01/21
   section proposal
     RWJF :active, rwjf, 11/14/20, 60d
-    HDR :active, hdr, 01/21/21, 60d
+    HDR :active, hdr, 01/21/21, 180d
     HNDS :active, hnds, 02/04/21, 180d
     CRII :crit, crii, 09/20/21, 90d 
 
@@ -44,6 +44,7 @@ gantt
   click icdm href "http://icdm2021.bigke.org"
   click mm href "https://2020.acmmm.org/index.html"
   click crii href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504952"
+  click hdr href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505828&org=NSF&sel_org=CISE&from=fund"
   click hnds href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505702"
   click rwjf href "https://anr.rwjf.org/viewCfp.do?cfpId=1509&cfpOverviewId="
 ```
