@@ -31,6 +31,7 @@ gantt
     ICDM 21:icdm, 06/01/21, 08/01/21
   section proposal
     RWJF: crit, rwjf, 11/14/20, 60d
+    HDR: active, hdr, 01/21/21, 60d
     HNDS: crit, hnds, 02/04/21, 180d
     CRII: crit, crii, 09/20/21, 90d 
 
