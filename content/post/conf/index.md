@@ -17,7 +17,6 @@ image:
 gantt
   dateFormat  MM/DD/YY
   section Conf
-    WWW 21 :active, www, 10/12/20, 01/15/21
     CVPR 21 :active, cvpr, 11/16/20, 02/26/21
     IJCAI 21 :crit, ijcai, 01/12/21, 04/25/21
     ICCV 21 :iccv, 03/17/21, 07/22/21
@@ -30,10 +29,10 @@ gantt
     CIKM 21:cikm, 05/15/21, 08/14/21
     ICDM 21:icdm, 06/01/21, 08/01/21
   section proposal
-    RWJF: crit, rwjf, 11/14/20, 60d
-    HDR: active, hdr, 01/21/21, 60d
-    HNDS: crit, hnds, 02/04/21, 180d
-    CRII: crit, crii, 09/20/21, 90d 
+    RWJF :active, rwjf, 11/14/20, 60d
+    HDR :active, hdr, 01/21/21, 60d
+    HNDS :active, hnds, 02/04/21, 180d
+    CRII :crit, crii, 09/20/21, 90d 
 
   click cvpr href "http://cvpr2021.thecvf.com/"
   click iccv href "http://iccv2021.thecvf.com/"
