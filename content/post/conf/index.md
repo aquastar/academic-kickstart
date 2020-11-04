@@ -30,10 +30,12 @@ gantt
     ICDM 21:icdm, 06/01/21, 08/01/21
   section proposal
     RWJF :active, rwjf, 11/14/20, 60d
+    HEGS: active, hegs, 01/19/21, 60d
     III/RI: active, iis, 10/01/20, 180d
     HDR :active, hdr, 01/21/21, 180d
     HNDS :active, hnds, 02/04/21, 180d
     CRII :crit, crii, 09/20/21, 90d 
+    RAPID:active, rapid, 11/04/20, 90d
 
   click cvpr href "http://cvpr2021.thecvf.com/"
   click iccv href "http://iccv2021.thecvf.com/"
@@ -49,4 +51,6 @@ gantt
   click hnds href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505702"
   click rwjf href "https://anr.rwjf.org/viewCfp.do?cfpId=1509&cfpOverviewId="
   click iis href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505667&org=NSF"
+  click hegs href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505745&org=NSF&sel_org=NSF&from=fund"
+  click rapid href "https://www.nsf.gov/news/special_reports/coronavirus/"
 ```
