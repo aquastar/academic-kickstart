@@ -72,6 +72,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 
 - ### [Openings](/post/opening/) are available. Researchers who are interested in my direction are welcome to contact me for discussions/collaborations
 -----
+- [Nov. 2020] Won **Best Paper Award** by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org)!
 - [Oct. 2020] One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
 - [Sept. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org).
 	- Kalman Filtering for Spatio-Temporal Graph Convolutional Network
