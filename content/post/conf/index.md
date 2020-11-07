@@ -1,5 +1,5 @@
 ---
-title: Conference Dates
+title: Conference and Grants
 subtitle: Recent Conferences on AI/ML/DM
 date: 2020-10-05T02:15:36.550Z
 summary: Submission Deadlines and Notification Date
