@@ -22,13 +22,11 @@ gantt
     ICCV 21 :iccv, 03/17/21, 07/22/21
     AAAI 21 :aaai, 09/09/20, 12/01/20
     ICML 21:active, icml, 01/28/21, 05/08/21
-
     MM 21:mm, 05/17/21, 07/25/21
     MM 21 BNI:mmbni, 06/07/21, 07/15/21
-  section Conf TBD
-    KDD 21:active, kdd, 02/13/21, 05/15/21
-    CIKM 21:cikm, 05/15/21, 08/14/21
-    ICDM 21:icdm, 06/01/21, 08/01/21
+    KDD 21-TBD:active, kdd, 02/13/21, 05/15/21
+    CIKM 21-TBD:cikm, 05/15/21, 08/14/21
+    ICDM 21-TBD:icdm, 06/01/21, 08/01/21
   section NSF
     RWJF :active, rwjf, 11/14/20, 60d
     HEGS: active, hegs, 01/19/21, 60d
@@ -39,7 +37,7 @@ gantt
     RAPID:active, rapid, 11/04/20, 90d
   section early career
     DOE : doe, 02/16/21, 90d 
-    DARPA: darpa, 08/01/21, 90d
+    DARPA-TBD: darpa, 08/01/21, 90d
   section grant
     INCAS: incas, 01/08/21, 90d
     Google: google, 12/02/20, 90d
