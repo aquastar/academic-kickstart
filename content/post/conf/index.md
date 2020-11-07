@@ -42,7 +42,7 @@ gantt
     DARPA: darpa, 08/01/21, 90d
   section grant
     INCAS: incas, 01/08/21, 90d
-    Google: google, 12/02/21, 90d
+    Google: google, 12/02/20, 90d
 
   click incas href "https://beta.sam.gov/opp/6bbca26d91df4eff96b4edfa2386c35f/view?keywords=incas&sort=-relevance&index=&is_active=true&page=1"
   click darpa href "https://www.darpa.mil/work-with-us/for-universities/young-faculty-award"
