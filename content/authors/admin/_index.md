@@ -10,18 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor in Computer Science
+role: Assistant Professor in Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Mississippi State University
+- name: Computer Sceience and Engineering, Mississippi State University
   url: "cse.msstate.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zhiqian Chen will join Department of Computer Science at Mississippi State University as Assistant Professor, focusing on AI research.
-
+bio: Zhiqian Chen is an Assistant Professor at Department of Computer Science and Engineering at Mississippi State University, focusing on graph machine learning.
 
 interests:
+
+
 education:
 
 
@@ -38,7 +39,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=lwfx98UAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=lwfx98UAAAAJhl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/aquastar
@@ -67,10 +68,16 @@ user_groups:
 - Visitors
 
 ---
-I will join Computer Science and Engineering Department of Mississippi State University in Fall 2020. Before joining MSU, I have been working as research assistant at Virginia Tech under the supervision of Chang-Tien Lu. My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively. I received an outstanding contribution award from Toyota Research North America in 2016. My research focuses on graph mining, spatial data mining, machine learning for natural science, computational art, and explainable AI.
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech under the supervision of Chang-Tien Lu. <!-- My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively.  -->I received an outstanding contribution award from Toyota Research North America in 2016. Currently, I am focusing on **graph machine learning** and its applications on spatial problems, circuit, molecule, etc.
 
-- ### Ph.D./PostDoc/Internship openings are available, see [here](/post/opening/).
-- [Jun. 2020] I will serve on program committee of [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
+- ### [Openings](/post/opening/) are available. Researchers who are interested in my direction are welcome to contact me for discussions/collaborations
+-----
+- [Nov. 2020] Won the **Best Paper Award** by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org)!
+- [Oct. 2020] One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
+- [Sept. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org).
+	- Kalman Filtering for Spatio-Temporal Graph Convolutional Network
+	- Case Study for Dividing School Zones (**Nomination for Best Paper Award**)
+- [Jun.-Aug. 2020] I will serve on program committee of [AAAI 21'](https://aaai.org/Conferences/AAAI-21/), [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
 - [Mar. 2020] A survey for Graph Neural Networks is online: [[preprint]](https://arxiv.org/abs/2002.11867)
 - [Dec. 2019][Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
   - Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles[[Top 50 Collection]](https://www.nature.com/collections/giacagiaca)
