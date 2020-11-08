@@ -38,7 +38,7 @@ gantt
     CAREER:active, career, 07/26/21, 90d
   section DARPA/DOE
     DOE/early career: doe, 02/16/21, 90d 
-    DARPAearly career-TBD: darpa, 08/01/21, 90d
+    DARPA/early career-TBD: darpa, 08/01/21, 90d
     INCAS: incas, 01/08/21, 90d
     SenSARS: sensars, 12/01/20, 90d
   section industry
@@ -87,13 +87,21 @@ gantt
 - [Tencent AI Lab Rhino-Bird Focused Research Program](https://ur.tencent.com/article/255)
 - [Twitter Data Grant](https://blog.twitter.com/engineering/en_us/a/2014/introducing-twitter-data-grants.html)
 - [Samsung Global Research Outreach](https://www.sait.samsung.co.kr/saithome/about/collabo_apply.do#subTitle)
+- [NIST funding opportunities](https://www.nist.gov/oaam/grants-management-division/nist-nofo-information?aid=11%25252525252525253Faid%25252525252525253D11%2525252525253Faid%3D11%25252525252525253Faid%25252525252525253D11)
+- [DOT](https://www.transportation.gov/rural/funding-opportunities)
+- [FHWA][1](https://www.fhwa.dot.gov/resources/topics/funding.cfm) [2](https://www.fhwa.dot.gov/fastact/funding.cfm) [3](https://highways.dot.gov/research/research-programs/exploratory-advanced-research/exploratory-advanced-research-overview)
 - [Air Force Research-special program](https://www.afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2282106/afosr-funding-opportunities-special-programs/#anchor2)
 - [Didi Chuxing Research](https://outreach.didichuxing.com)
 - [Huawei Innovation Research Program](https://innovationresearch.huawei.com/IPD/hirp/portal/index.html)
+- [NIJ](https://nij.ojp.gov/funding/forthcoming)
 - [Pitney Bowes Foundation Grant Program](https://www.pitneybowes.com/content/dam/pitneybowes/us/en/our-company/corporate-responsibility/pitney-bowes-foundation-grant-guidelines-and-application.pdf)
 - [Army Research Office](https://cdmrp.army.mil/funding/prgdefault)
 - [Army Research Lab](https://www.arl.army.mil/business/broad-agency-announcements/)
 - [Office of Naval Research](https://www.onr.navy.mil/en/work-with-us/funding-opportunities)
+- [PCORI](https://www.pcori.org/funding-opportunities)
 - [Snap Research Fellowship & Scholarship](https://snapresearchfs.splashthat.com)
 - [IMLS](https://www.imls.gov/grants/apply-grant/available-grants)
+- [WW foundation](https://woodrow.org)
+- [MacArthur Foundataion](https://www.macfound.org/grants/)
 https://github.com/dhanus/graduate-fellowships
+
