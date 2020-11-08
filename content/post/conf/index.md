@@ -35,13 +35,20 @@ gantt
     HNDS :active, hnds, 02/04/21, 180d
     CRII :crit, crii, 09/20/21, 90d 
     RAPID:active, rapid, 11/04/20, 90d
-  section early career
-    DOE : doe, 02/16/21, 90d 
-    DARPA-TBD: darpa, 08/01/21, 90d
-  section grant
+    CAREER:active, career, 07/26/21, 90d
+  section DARPA/DOE
+    DOE/early career: doe, 02/16/21, 90d 
+    DARPAearly career-TBD: darpa, 08/01/21, 90d
     INCAS: incas, 01/08/21, 90d
+    SenSARS: sensars, 12/01/20, 90d
+  section industry
     Google: google, 12/02/20, 90d
+    AWS AI: aws, 02/01/21, 07/01/21
+    BSF: bsf, 12/09/20, 07/01/21
 
+  click bsf href "https://www.bsf.org.il/funding-opportunities/bsf-research-grants/about/"
+  click sensars href "https://beta.sam.gov/opp/a84f1af107334afcbf39d885d8f668a3/view"
+  click aws href "https://www.amazon.science/research-awards/call-for-proposals/aws-ai"
   click incas href "https://beta.sam.gov/opp/6bbca26d91df4eff96b4edfa2386c35f/view?keywords=incas&sort=-relevance&index=&is_active=true&page=1"
   click darpa href "https://www.darpa.mil/work-with-us/for-universities/young-faculty-award"
   click deo href "https://www.grants.gov/web/grants/search-grants.html"
@@ -63,6 +70,7 @@ gantt
   click rapid href "https://www.nsf.gov/news/special_reports/coronavirus/"
 ```
 
+- [BSF](https://www.bsf.org.il/funding-opportunities/bsf-research-grants/about/)
 - [Adobe Data Science Research Award](https://www.adobe.com/careers/university/marketing-research.html)
 - [Amazon Research Award](https://www.amazon.science/research-awards)
 - [MSR Academic Programs](https://www.microsoft.com/en-us/research/academic-programs/faculty/?facet%5Btax%5D%5Bmsr-program-audience%5D%5B%5D=243727&facet%5Btax%5D%5Bmsr-program-type%5D%5B%5D=155533)
@@ -74,3 +82,18 @@ gantt
 - [Bill & Melinda Gates Foundation](https://submit.gatesfoundation.org)
 - [Simons Foundation](https://www.simonsfoundation.org/funding-opportunities/)
 - [Facebook Research](https://research.fb.com/research-awards/)
+- [IBM Research Award](https://www.research.ibm.com/university/awards/faculty.html)
+- [Alibaba Innovative Research](https://damo.alibaba.com/air/)
+- [Tencent AI Lab Rhino-Bird Focused Research Program](https://ur.tencent.com/article/255)
+- [Twitter Data Grant](https://blog.twitter.com/engineering/en_us/a/2014/introducing-twitter-data-grants.html)
+- [Samsung Global Research Outreach](https://www.sait.samsung.co.kr/saithome/about/collabo_apply.do#subTitle)
+- [Air Force Research-special program](https://www.afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2282106/afosr-funding-opportunities-special-programs/#anchor2)
+- [Didi Chuxing Research](https://outreach.didichuxing.com)
+- [Huawei Innovation Research Program](https://innovationresearch.huawei.com/IPD/hirp/portal/index.html)
+- [Pitney Bowes Foundation Grant Program](https://www.pitneybowes.com/content/dam/pitneybowes/us/en/our-company/corporate-responsibility/pitney-bowes-foundation-grant-guidelines-and-application.pdf)
+- [Army Research Office](https://cdmrp.army.mil/funding/prgdefault)
+- [Army Research Lab](https://www.arl.army.mil/business/broad-agency-announcements/)
+- [Office of Naval Research](https://www.onr.navy.mil/en/work-with-us/funding-opportunities)
+- [Snap Research Fellowship & Scholarship](https://snapresearchfs.splashthat.com)
+- [IMLS](https://www.imls.gov/grants/apply-grant/available-grants)
+https://github.com/dhanus/graduate-fellowships
