@@ -27,11 +27,11 @@ gantt
     CIKM 21-TBD:cikm, 05/15/21, 08/14/21
     ICDM 21-TBD:icdm, 06/01/21, 08/01/21
   section gov
-    RWJF :active, rwjf, 11/14/20, 60d
-    HEGS: active, hegs, 01/19/21, 60d
-    III/RI: active, iis, 10/01/20, 180d
-    HDR :active, hdr, 01/21/21, 180d
-    HNDS :active, hnds, 02/04/21, 180d
+    RWJF :active, rwjf, 11/14/20, 90d
+    HEGS: active, hegs, 01/19/21, 90d
+    III/RI: active, iis, 10/01/20, 90d
+    HDR :active, hdr, 01/21/21, 90d
+    HNDS :active, hnds, 02/04/21, 90d
     CRII :crit, crii, 09/20/21, 90d 
     RAPID:active, rapid, 11/04/20, 90d
     CAREER:active, career, 07/26/21, 90d
