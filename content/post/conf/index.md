@@ -26,7 +26,7 @@ gantt
     KDD 21-TBD:active, kdd, 02/13/21, 05/15/21
     CIKM 21-TBD:cikm, 05/15/21, 08/14/21
     ICDM 21-TBD:icdm, 06/01/21, 08/01/21
-  section NSF
+  section gov
     RWJF :active, rwjf, 11/14/20, 60d
     HEGS: active, hegs, 01/19/21, 60d
     III/RI: active, iis, 10/01/20, 180d
@@ -35,15 +35,16 @@ gantt
     CRII :crit, crii, 09/20/21, 90d 
     RAPID:active, rapid, 11/04/20, 90d
     CAREER:active, career, 07/26/21, 90d
-  section DARPA/DOE
-    DOE/early career: doe, 02/16/21, 90d 
-    DARPA/early career-TBD: darpa, 08/01/21, 90d
-    INCAS: incas, 01/08/21, 90d
-    SenSARS: sensars, 12/01/20, 90d
+    DOE-early: doe, 02/16/21, 90d 
+    DARPA-early career: darpa, 01/08/21, 90d
+    DoD-INCAS: incas, 01/08/21, 90d
+    DoD-SenSARS: sensars, 12/01/20, 90d
+    DoD-NGA BIG:nga, 10/13/20, 90d
   section industry
     Google: google, 12/02/20, 90d
     AWS AI: aws, 02/01/21, 07/01/21
 
+  click nga href "https://beta.sam.gov/opp/3c218648f9f04658840e478a7f1048e1/view?keywords=HM0476-20-BAA-0001&sort=-relevance&index=&is_active=true&page=1"
   click sensars href "https://beta.sam.gov/opp/a84f1af107334afcbf39d885d8f668a3/view"
   click aws href "https://www.amazon.science/research-awards/call-for-proposals/aws-ai"
   click incas href "https://beta.sam.gov/opp/6bbca26d91df4eff96b4edfa2386c35f/view?keywords=incas&sort=-relevance&index=&is_active=true&page=1"
@@ -75,10 +76,10 @@ gantt
 - FHWA： [1](https://www.fhwa.dot.gov/resources/topics/funding.cfm) [2](https://www.fhwa.dot.gov/fastact/funding.cfm) [3](https://highways.dot.gov/research/research-programs/exploratory-advanced-research/exploratory-advanced-research-overview)
 - [Air Force Research Lab (AFRL)](https://afrl.dodlive.mil/funding/)
 - [Air Force Office Science Research (AFOSR)](https://www.afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2282103/afosr-funding-opportunities/)
-- [NIJ](https://nij.ojp.gov/funding/forthcoming)
-- [Army Research Office](https://cdmrp.army.mil/funding/prgdefault)
-- [Army Research Lab](https://www.arl.army.mil/business/broad-agency-announcements/)
+- [Army Research Office (ARO)](https://cdmrp.army.mil/funding/prgdefault)
+- [Army Research Lab (ARL)](https://www.arl.army.mil/business/broad-agency-announcements/)
 - [Office of Naval Research](https://www.onr.navy.mil/en/work-with-us/funding-opportunities)
+- [NIJ](https://nij.ojp.gov/funding/forthcoming)
 - [IMLS](https://www.imls.gov/grants/apply-grant/available-grants)
 - [US Geological Survey](https://www.usgs.gov/about/organization/science-support/administration/office-acquisition-and-grants)
 - [NOAA Sea Grant](https://seagrant.noaa.gov/News/PID/468/evl/0/TagID/590/TagName/National-Water-Center)
