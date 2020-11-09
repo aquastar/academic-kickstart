@@ -32,15 +32,15 @@ gantt
     HDR :active, hdr, 01/21/21, 90d
     HNDS :active, hnds, 02/04/21, 90d
     CRII :crit, crii, 09/20/21, 90d 
-    CAREER:active, career, 07/26/21, 90d
-    DOE-early: doe, 02/16/21, 90d 
-    DARPA-early career: darpa, 01/08/21, 90d
-    DoD-INCAS: incas, 01/08/21, 90d
-    DoD-SenSARS: sensars, 12/01/20, 90d
-    DoD-NGA BIG:nga, 10/13/20, 90d
+    CAREER:career, 07/26/21, 90d
+    DOE-early:active,  doe, 02/16/21, 90d 
+    DARPA-early career:active,  darpa, 01/08/21, 90d
+    DoD-INCAS:active,  incas, 01/08/21, 90d
+    DoD-SenSARS:active,  sensars, 12/01/20, 90d
+    DoD-NGA BIG:active, nga, 10/13/20, 90d
   section industry
-    Google: google, 12/02/20, 90d
-    AWS AI: aws, 02/01/21, 07/01/21
+    Google:active,  google, 12/02/20, 90d
+    AWS AI:aws, 02/01/21, 07/01/21
   section foundation
     RWJF :active, rwjf, 11/14/20, 90d
 
