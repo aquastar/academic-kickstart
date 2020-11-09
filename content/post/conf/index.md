@@ -27,13 +27,11 @@ gantt
     CIKM 21-TBD:cikm, 05/15/21, 08/14/21
     ICDM 21-TBD:icdm, 06/01/21, 08/01/21
   section gov
-    RWJF :active, rwjf, 11/14/20, 90d
     HEGS: active, hegs, 01/19/21, 90d
     III/RI: active, iis, 10/01/20, 90d
     HDR :active, hdr, 01/21/21, 90d
     HNDS :active, hnds, 02/04/21, 90d
     CRII :crit, crii, 09/20/21, 90d 
-    RAPID:active, rapid, 11/04/20, 90d
     CAREER:active, career, 07/26/21, 90d
     DOE-early: doe, 02/16/21, 90d 
     DARPA-early career: darpa, 01/08/21, 90d
@@ -43,6 +41,9 @@ gantt
   section industry
     Google: google, 12/02/20, 90d
     AWS AI: aws, 02/01/21, 07/01/21
+  section foundation
+    RWJF :active, rwjf, 11/14/20, 90d
+
 
   click nga href "https://beta.sam.gov/opp/3c218648f9f04658840e478a7f1048e1/view?keywords=HM0476-20-BAA-0001&sort=-relevance&index=&is_active=true&page=1"
   click sensars href "https://beta.sam.gov/opp/a84f1af107334afcbf39d885d8f668a3/view"
@@ -65,7 +66,6 @@ gantt
   click rwjf href "https://anr.rwjf.org/viewCfp.do?cfpId=1509&cfpOverviewId="
   click iis href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505667&org=NSF"
   click hegs href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505745&org=NSF&sel_org=NSF&from=fund"
-  click rapid href "https://www.nsf.gov/news/special_reports/coronavirus/"
 ```
 
 
