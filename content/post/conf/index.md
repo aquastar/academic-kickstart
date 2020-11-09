@@ -20,7 +20,6 @@ gantt
     CVPR 21 :active, cvpr, 11/16/20, 02/26/21
     IJCAI 21 :crit, ijcai, 01/12/21, 04/25/21
     ICCV 21 :iccv, 03/17/21, 07/22/21
-    AAAI 21 :aaai, 09/09/20, 12/01/20
     ICML 21:active, icml, 01/28/21, 05/08/21
     MM 21:mm, 05/17/21, 07/25/21
     MM 21 BNI:mmbni, 06/07/21, 07/15/21
