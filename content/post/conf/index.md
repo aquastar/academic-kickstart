@@ -44,9 +44,7 @@ gantt
   section industry
     Google: google, 12/02/20, 90d
     AWS AI: aws, 02/01/21, 07/01/21
-    BSF: bsf, 12/09/20, 07/01/21
 
-  click bsf href "https://www.bsf.org.il/funding-opportunities/bsf-research-grants/about/"
   click sensars href "https://beta.sam.gov/opp/a84f1af107334afcbf39d885d8f668a3/view"
   click aws href "https://www.amazon.science/research-awards/call-for-proposals/aws-ai"
   click incas href "https://beta.sam.gov/opp/6bbca26d91df4eff96b4edfa2386c35f/view?keywords=incas&sort=-relevance&index=&is_active=true&page=1"
