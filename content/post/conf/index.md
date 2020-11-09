@@ -30,7 +30,7 @@ gantt
     HEGS: active, hegs, 01/19/21, 90d
     III/RI:crit, iis, 10/01/20, 90d
     HDR :active, hdr, 01/21/21, 90d
-    HNDS :crit,, hnds, 02/04/21, 90d
+    HNDS :crit, hnds, 02/04/21, 90d
     CRII :crit, crii, 09/20/21, 90d 
     CAREER:career, 07/26/21, 90d
     DOE-early:active,  doe, 02/16/21, 90d 
