@@ -72,8 +72,7 @@ gantt
 # Gov
 - [By Agency](https://www.grants.gov/web/grants/learn-grants/grant-making-agencies.html)
 - [NIST funding opportunities](https://www.nist.gov/oaam/grants-management-division/nist-nofo-information?aid=11%25252525252525253Faid%25252525252525253D11%2525252525253Faid%3D11%25252525252525253Faid%25252525252525253D11)
-- [DOT](https://www.transportation.gov/rural/funding-opportunities)
-- FHWA： [1](https://www.fhwa.dot.gov/resources/topics/funding.cfm) [2](https://www.fhwa.dot.gov/fastact/funding.cfm) [3](https://highways.dot.gov/research/research-programs/exploratory-advanced-research/exploratory-advanced-research-overview)
+- [DOT](https://www.transportation.gov/rural/funding-opportunities), FHWA： [1](https://www.fhwa.dot.gov/resources/topics/funding.cfm) [2](https://www.fhwa.dot.gov/fastact/funding.cfm) [3](https://highways.dot.gov/research/research-programs/exploratory-advanced-research/exploratory-advanced-research-overview)
 - [Air Force Research Lab (AFRL)](https://afrl.dodlive.mil/funding/)
 - [Air Force Office Science Research (AFOSR)](https://www.afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2282103/afosr-funding-opportunities/)
 - [Army Research Office (ARO)](https://cdmrp.army.mil/funding/prgdefault)
