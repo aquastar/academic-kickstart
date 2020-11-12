@@ -113,6 +113,7 @@ gantt
 - [MacArthur](https://www.macfound.org/grants/)
 - [Robert Wood Johnson](https://www.rwjf.org)
 - [Pitney Bowes](https://www.pitneybowes.com/content/dam/pitneybowes/us/en/our-company/corporate-responsibility/pitney-bowes-foundation-grant-guidelines-and-application.pdf)
+- [American Foundation for Suicide Prevention](https://afsp.org/research-grant-information)
 
 https://github.com/dhanus/graduate-fellowships
 
