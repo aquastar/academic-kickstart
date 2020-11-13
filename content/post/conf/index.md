@@ -66,6 +66,7 @@ gantt
   click rwjf href "https://anr.rwjf.org/viewCfp.do?cfpId=1509&cfpOverviewId="
   click iis href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505667&org=NSF"
   click hegs href "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505745&org=NSF&sel_org=NSF&from=fund"
+  click google href "https://research.google/outreach/research-scholar-program/"
 ```
 
 
