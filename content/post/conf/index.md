@@ -1,6 +1,6 @@
 ---
-title: Conference and Grants
-subtitle: Recent Conferences on AI/ML/DM
+title: Conferences and Fundings
+subtitle: list of dates and resources
 date: 2020-10-05T02:15:36.550Z
 summary: Submission Deadlines and Notification Date
 draft: false
@@ -41,6 +41,7 @@ gantt
   section Industry
     Google:crit,  google, 12/02/20, 90d
     AWS AI:active,  aws, 02/01/21, 07/01/21
+    Award for Inclusion Research-TBD, air, 06/01/21, 90d
   section Foundation
     RWJF :crit, rwjf, 11/24/20, 90d
 
