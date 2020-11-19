@@ -23,7 +23,7 @@ gantt
     ICML 21:active, icml, 01/28/21, 05/08/21
     MM 21:mm, 05/17/21, 07/25/21
     MM 21 BNI:mmbni, 06/07/21, 07/15/21
-    KDD 21-TBD:active, kdd, 02/13/21, 05/15/21
+    KDD 21:active, kdd, 02/08/21, 05/15/21
     CIKM 21-TBD:cikm, 05/15/21, 08/14/21
     ICDM 21-TBD:icdm, 06/01/21, 08/01/21
   section Gov
