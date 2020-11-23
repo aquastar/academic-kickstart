@@ -43,7 +43,7 @@ gantt
     AWS AI:active,  aws, 02/01/21, 07/01/21
     Award for Inclusion Research-TBD: air, 06/01/21, 90d
   section Foundation
-    RWJF :crit, rwjf, 11/24/20, 90d
+    RWJF :rwjf, 11/24/20, 90d
 
 
   click nga href "https://beta.sam.gov/opp/3c218648f9f04658840e478a7f1048e1/view?keywords=HM0476-20-BAA-0001&sort=-relevance&index=&is_active=true&page=1"
