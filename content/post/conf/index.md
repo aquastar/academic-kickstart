@@ -39,7 +39,7 @@ gantt
     DoD-SenSARS: sensars, 12/01/20, 90d
     DoD-NGA BIG:active, nga, 10/13/20, 90d
   section Industry
-    Google:crit,  google, 12/02/20, 90d
+    Google:google, 12/02/20, 90d
     AWS AI:active,  aws, 02/01/21, 07/01/21
     Award for Inclusion Research-TBD: air, 06/01/21, 90d
   section Foundation
