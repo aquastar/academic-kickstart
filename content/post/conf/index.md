@@ -26,6 +26,8 @@ gantt
     KDD 21:active, kdd, 02/08/21, 05/15/21
     CIKM 21-TBD:cikm, 05/15/21, 08/14/21
     ICDM 21-TBD:icdm, 06/01/21, 08/01/21
+    IJCNN 21:ijcnn, 01/15/21, 03/15/21
+    ICWSM-21:icsws, 01/15/21, 03/15/21
   section Gov
     HEGS: hegs, 01/19/21, 90d
     III/RI:crit, iis, 10/01/20, 180d
