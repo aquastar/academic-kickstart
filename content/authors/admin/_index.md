@@ -39,7 +39,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=lwfx98UAAAAJhl=en
+  link: https://scholar.google.com/citations?user=7i7exfsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/aquastar
