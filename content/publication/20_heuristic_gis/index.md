@@ -6,7 +6,8 @@ authors:
 - admin
 - Chang-Tien Lu
 - Naren Ramakrishnan
-date: "2020-10-01T00:00:00Z"
+- (Best Paper Award)
+date: "2020-12-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the 28th International Conference on Advances in Geographic Information 
-publication_short: SIGSPATIAL 20 (Best Paper Award)
+publication_short: SIGSPATIAL
 
 abstract:
 

@@ -8,7 +8,7 @@ authors:
 - Fanglan Chen
 - Abdulaziz Alhamadani
 - Bei Xiao
-- ChangTien Lu. 
+- ChangTien Lu
 date: "2020-12-01T00:00:00Z"
 doi: ""
 

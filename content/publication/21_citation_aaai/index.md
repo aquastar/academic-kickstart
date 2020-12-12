@@ -7,7 +7,7 @@ authors:
 - Zhiqian Chen
 - Naren Ramakrishnan
 - Chang-Tien Lu
-date: "2020-12-12T00:00:00Z"
+date: "2021-02-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of The 35th AAAI Conference on Artificial Intelligence (AAAI)
-publication_short: AAAI 21
+publication_short: AAAI
 
 abstract:
 
