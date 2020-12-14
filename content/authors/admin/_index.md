@@ -72,6 +72,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 
 ### Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/).
 -----
+- [Dec. 2020] Invited to serve on the program committee of [ICML 21'](https://icml.cc/Conferences/2021).
 - [Dec. 2020] One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
 - [Nov. 2020] Won the **Best Paper Award** by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org)!
 - [Oct. 2020] One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
