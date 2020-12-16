@@ -80,7 +80,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 	- Kalman Filtering for Spatio-Temporal Graph Convolutional Network
 	- Case Study for Dividing School Zones (**Nomination for Best Paper Award**)
 - [Jun.-Aug. 2020] I will serve on program committee of [AAAI 21'](https://aaai.org/Conferences/AAAI-21/), [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
-- [Mar. 2020] A survey for Graph Neural Networks is online: [[preprint]](https://arxiv.org/abs/2002.11867)
+- [Mar. 2020] A survey for Graph Neural Networks (GNN) is online: [[preprint]](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
 - [Dec. 2019][Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
   - Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles[[Top 50 Collection]](https://www.nature.com/collections/giacagiaca)
 - [Oct. 2019] The work using graph neural network for circuit deobfuscation is accepted by **DATE 2020**
