@@ -70,7 +70,8 @@ user_groups:
 ---
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. <!-- My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively.  -->I received an outstanding contribution award from Toyota Research North America in 2016. Currently, I am focusing on **graph machine learning** and its applications on spatial problems, circuit, molecule, etc.
 
-**Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/).**
+Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/).
+
 -----
 - [Dec. 2020] Invited to serve on the program committee of [ICML 21'](https://icml.cc/Conferences/2021).
 - [Dec. 2020] One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
