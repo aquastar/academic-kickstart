@@ -17,30 +17,23 @@ image:
 gantt
   dateFormat  MM/DD/YY
   section Conf
-    CVPR 21 :cvpr, 11/16/20, 02/26/21
-    IJCAI 21 :active, ijcai, 01/12/21, 04/25/21
+    IJCAI Survey 21 :active, ijcai, 02/28/21, 04/25/21
     ICCV 21 :active, 03/17/21, 07/22/21
     ICML 21:active, icml, 01/28/21, 05/08/21
     MM 21:mm, 05/17/21, 07/25/21
     MM 21 BNI:mmbni, 06/07/21, 07/15/21
-    KDD 21:active, kdd, 02/08/21, 05/15/21
     CIKM 21-TBD:cikm, 05/15/21, 08/14/21
     ICDM 21-TBD:icdm, 06/01/21, 08/01/21
-    IJCNN 21:ijcnn, 01/15/21, 03/15/21
     ICWSM-21:icsws, 01/15/21, 03/15/21
   section Gov
-    HEGS: hegs, 01/19/21, 90d
     III/RI:crit, iis, 10/01/20, 180d
-    HDR :hdr, 01/21/21, 90d
     HNDS :crit, hnds, 02/04/21, 90d
     CRII :active, crii, 09/20/21, 90d 
     CAREER:career, 07/26/21, 90d
     DOE-early:doe, 02/16/21, 90d 
     DARPA-early career:  darpa, 01/08/21, 90d
-    DoD-INCAS:incas, 01/08/21, 90d
-    DoD-SenSARS: sensars, 12/01/20, 90d
-    DoD-NGA BIG:active, nga, 10/13/20, 90d
   section Industry
+    Adobe DS:adb, 08/13/21, 30d
     Google:google, 12/02/20, 90d
     AWS AI:active,  aws, 02/01/21, 07/01/21
     Award for Inclusion Research-TBD: air, 06/01/21, 90d
