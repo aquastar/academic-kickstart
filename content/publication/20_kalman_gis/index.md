@@ -1,5 +1,5 @@
 ---
-title: "Geospatial Clustering for Balanced and Proximal Schools"
+title: "Graph Convolutional Networks with Kalman Filtering for Traffic Prediction"
 authors:
 - Fanglan Chen
 - Zhiqian Chen
