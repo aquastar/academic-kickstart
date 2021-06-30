@@ -73,9 +73,8 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/).
 
 -----
-- [Apr. 2021] See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
-- [Mar. 2021] Invited to serve on the program committee of [NeurlPS 21'](https://nips.cc).
-- [Dec. 2020] Invited to serve on the program committee of [ICML 21'](https://icml.cc/Conferences/2021).
+- [May. 2021] See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
+- [May. 2021] Invited to serve on the program committee of [NeurlPS 21'](https://nips.cc),[ICML 21'](https://icml.cc/Conferences/2021),[ICLR 21'](https://iclr.cc/).
 - [Dec. 2020] One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
 - [Nov. 2020] Won the **Best Paper Award** by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org)!
 - [Oct. 2020] One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
