@@ -87,5 +87,3 @@ Researchers/students sharing the same interests are welcome to contact me for co
 - [Mar. 2020] A survey for Graph Neural Networks (GNN) is online: [[preprint]](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
 - [Dec. 2019][Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
   - Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles[[Top 50 Collection]](https://www.nature.com/collections/giacagiaca)
-- [Oct. 2019] The work using graph neural network for circuit deobfuscation is accepted by **DATE 2020**
-- [Oct. 2019] Solution for dividing school zones is accepted by **ACM SIG-SPATIAL** and **AAAI 2020**
