@@ -74,10 +74,10 @@ Researchers/students sharing the same interests are welcome to contact me for co
 
 -----
 - [Oct. 2021] Four works has been accepted by [AAAI-22'](https://aaai.org/Conferences/AAAI-22/) (SA program):
--- Graph learning to model the topology of hieroglyph 
--- Graph dynamics transformation by echo state network
--- Graph wavelets for early forecast of traffic accident impact
--- Influence blocking maximization with hard constraint
+  - Graph learning to model the topology of hieroglyph 
+  - Graph dynamics transformation by echo state network
+  - Graph wavelets for early forecast of traffic accident impact
+  - Influence blocking maximization with hard constraint
 - [Sep. 2021] One paper about mobility and COVID-19 spreading is accepted by [ASONAM 21'](https://asonam.cpsc.ucalgary.ca/2021/).
 - [Aug. 2021] Invited to serve as reviewer at [AAAI 22'](https://aaai.org/Conferences/AAAI-22/).
 - [May 2021] See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
