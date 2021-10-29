@@ -84,7 +84,7 @@ Researchers/students sharing the same interests are welcome to contact me for co
 - [May 2021] Invited to serve on the program committee as reviwer at [NeurlPS 21'](https://nips.cc),[ICML 21'](https://icml.cc/Conferences/2021),[ICLR 21'](https://iclr.cc/).
 - [Dec. 2020] One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
 - [Oct. 2020] One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
-- [Sept. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org).
+- [Sept. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org):
 	- Kalman Filtering for Spatio-Temporal Graph Convolutional Network
 	- Case Study for Dividing School Zones (**Best Paper Award**)
 - [Jun.-Aug. 2020] I will serve on program committee of [AAAI 21'](https://aaai.org/Conferences/AAAI-21/), [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
