@@ -74,10 +74,10 @@ Researchers/students sharing the same interests are welcome to contact me for co
 
 -----
 - [Oct. 2021] Four works has been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/) student abstract and poster program:
-  - Graph learning to model the topology of hieroglyph 
-  - Graph dynamics transformation by echo state network
-  - Graph wavelets for early forecast of traffic incident impact
-  - Influence blocking maximization with hard constraint
+  - Graph learning for hieroglyph 
+  - Graph dynamics transformation with echo state network
+  - Graph wavelets for traffic modeling
+  - Influence blocking maximization 
 - [Oct. 2021] One work is accepted by [IEEE BigData 21'](https://bigdataieee.org/BigData2021/): a hierachical graph learning for traffic impact.
 - [Sep. 2021] One paper about mobility and COVID-19 spreading is accepted by [ASONAM 21'](https://asonam.cpsc.ucalgary.ca/2021/).
 - [Aug. 2021] Invited to serve as reviewer at [AAAI 22'](https://aaai.org/Conferences/AAAI-22/).
