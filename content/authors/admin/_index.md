@@ -73,7 +73,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 <!-- Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/). -->
 
 -----
-- [Oct. 2021] Four works has been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/) student abstract and poster program:
+- [Oct. 2021] Four works has been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), topics include:
   - Graph learning for hieroglyph 
   - Graph dynamics transformation with echo state network
   - Graph wavelets for traffic modeling
