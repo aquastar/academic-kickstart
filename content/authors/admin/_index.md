@@ -74,7 +74,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 
 -----
 - [Oct. 2021] Four works has been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), topics include:
-  - Graph wavelets, influence blocking maximization, graph learning for hieroglyph, graph dynamics mapping
+  - Graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
 - [Oct. 2021] One work is accepted by [IEEE BigData 21'](https://bigdataieee.org/BigData2021/): a hierachical graph learning for traffic impact.
 - [Sep. 2021] One paper about mobility and COVID-19 spreading is accepted by [ASONAM 21'](https://asonam.cpsc.ucalgary.ca/2021/).
 - [Aug. 2021] Invited to serve as reviewer at [AAAI 22'](https://aaai.org/Conferences/AAAI-22/).
