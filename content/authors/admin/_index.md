@@ -73,6 +73,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 <!-- Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/). -->
 
 -----
+- [Dec. 2021] Will serve as reviewer at [SIGIR 22'](https://sigir.org/sigir2022/)
 - [Oct. 2021] Four works has been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), topics include:
   - Graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
 - [Oct. 2021] One work is accepted by [IEEE BigData 21'](https://bigdataieee.org/BigData2021/): a hierachical graph learning for traffic impact.
