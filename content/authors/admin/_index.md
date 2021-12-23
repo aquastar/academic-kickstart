@@ -75,7 +75,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 -----
 - [Dec. 2021] One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
   - Graph Wavelet for Impact Forecast of Traffic Accidents
-- [Dec. 2021] Will serve as reviewer of [SIGIR 22'](https://sigir.org/sigir2022/), [ICML 22'](https://icml.cc), [IJCAI 22'](https://ijcai-22.org)
+- [Dec. 2021] Will serve as reviewer of [SIGIR 22'](https://sigir.org/sigir2022/), [ICML 22'](https://icml.cc), [IJCAI 22'](https://ijcai-22.org), [KDD 22'](https://kdd.org/kdd2022/)
 - [Oct. 2021] Four works has been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), topics include:
   - Graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
 - [Oct. 2021] One work is accepted by [IEEE BigData 21'](https://bigdataieee.org/BigData2021/): a hierachical graph learning for traffic impact.
