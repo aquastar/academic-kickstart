@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. <!-- My Master Degree is obtained from Peking University and a B.S. from Huazhong University of Science and Technology respectively.  -->I received an outstanding contribution award from Toyota Research North America in 2016. Currently, I am focusing on **graph machine learning** and its applications on spatial problems, circuit, molecule, etc.
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I received an outstanding contribution award from Toyota Research North America in 2016. Currently, I am focusing on **graph machine learning** and its applications on spatial problems, circuit, molecule, etc.
 
 <!-- Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/). -->
 
