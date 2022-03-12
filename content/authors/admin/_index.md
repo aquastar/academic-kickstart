@@ -85,9 +85,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 - [May 2021] Invited to serve on the program committee as reviwer at [NeurlPS 21'](https://nips.cc),[ICML 21'](https://icml.cc/Conferences/2021),[ICLR 21'](https://iclr.cc/).
 - [Dec. 2020] One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
 - [Oct. 2020] One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
-- [Sept. 2020] Two papers are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org):
-	- Kalman Filtering for Spatio-Temporal Graph Convolutional Network
-	- Incorperate Domain Knowledge for Spatial Zone Division (**Best Paper Award**)
+- [Sept. 2020] Papers about Kalman filtering and school redistricting are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org) with (**Best Paper Award**)
 - [Jun.-Aug. 2020] I will serve as reviwers in [AAAI 21'](https://aaai.org/Conferences/AAAI-21/), [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
 - [Mar. 2020] A survey for Graph Neural Networks (GNN) is online: [[preprint]](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
 - [Dec. 2019][Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
