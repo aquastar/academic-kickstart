@@ -1,5 +1,5 @@
 ---
-title: Network and Flow
+title: Graph and Flow
 summary:
 tags:
 - deep Learning
