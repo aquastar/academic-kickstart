@@ -73,6 +73,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 <!-- Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/). -->
 
 -----
+- [Mar. 2022] Will serve as reviewer of [NeurIPS 22'](https://neurips.cc)
 - [Dec. 2021] One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
   - Graph Wavelet for Impact Forecast of Traffic Accidents
   - With the support of the SIAM Early Career Travel Award, I will attend in person.
@@ -87,7 +88,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 - [Dec. 2020] One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
 - [Oct. 2020] One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
 - [Sept. 2020] Papers about Kalman filtering and school redistricting are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org) with (**Best Paper Award**)
-- [Jun.-Aug. 2020] I will serve as reviwers in [AAAI 21'](https://aaai.org/Conferences/AAAI-21/), [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurlPS 20'](https://nips.cc).
+- [Jun.-Aug. 2020] I will serve as reviwers in [AAAI 21'](https://aaai.org/Conferences/AAAI-21/), [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurIPS 20'](https://nips.cc).
 - [Mar. 2020] A survey for Graph Neural Networks (GNN) is online: [[preprint]](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
 - [Dec. 2019][Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
   - Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles[[Top 50 Collection]](https://www.nature.com/collections/giacagiaca)
