@@ -72,6 +72,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 
 <!-- Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/). -->
 <mark>test</mark>
+- <span style="color:red">some *red* text</span>
 - `[*Award*]`4/2022: Appreciate NSF's support for my research on network flow!
 - `[*Service*]`3/2022: Will serve as reviewer of [NeurIPS 22'](https://neurips.cc)
 - `[*Paper*]`12/2021: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
