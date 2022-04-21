@@ -72,9 +72,8 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 
 <!-- Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/). -->
 
------
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- <span style="color:red">[Award]</span>[Apr. 2022] Appreciate NSF's support for my research on network flow!
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `[Award]`
+- [Apr. 2022] Appreciate NSF's support for my research on network flow!
 - [Mar. 2022] Will serve as reviewer of [NeurIPS 22'](https://neurips.cc)
 - [Dec. 2021] One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
   - Graph Wavelet for Impact Forecast of Traffic Accidents
