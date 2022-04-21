@@ -62,7 +62,7 @@ social:
 email: "zchen@cse.msstate.edu"
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to **`[]`** or comment out if you are not using People widget.  
+#   Set this to **`[`** or comment out if you are not using People widget.  
 user_groups:
 - Researchers
 - Visitors
@@ -73,22 +73,22 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 <!-- Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/). -->
 
 - **`[Award]`**4/2022: Appreciate NSF's support for my research on network flow!
-- **`[*Service*]`**3/2022: Will serve as reviewer of [NeurIPS 22'](https://neurips.cc)
-- **`[*Paper*]`**12/2021: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
+- **`[Service]`**3/2022: Will serve as reviewer of [NeurIPS 22'](https://neurips.cc)
+- **`[Paper]`**12/2021: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
   - Graph Wavelet for Impact Forecast of Traffic Accidents
   - With the support of the SIAM Early Career Travel Award, I will attend in person.
-- **`[*Service*]`**12/2021:  Will serve as reviewer of [SIGIR 22'](https://sigir.org/sigir2022/), [ICML 22'](https://icml.cc), [IJCAI 22'](https://ijcai-22.org), [KDD 22'](https://kdd.org/kdd2022/)
-- **`[*Paper*]`**10/2021: Recent works have been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), topics include:
+- **`[Service]`**12/2021:  Will serve as reviewer of [SIGIR 22'](https://sigir.org/sigir2022/), [ICML 22'](https://icml.cc), [IJCAI 22'](https://ijcai-22.org), [KDD 22'](https://kdd.org/kdd2022/)
+- **`[Paper]`**10/2021: Recent works have been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), topics include:
   - Graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
 - [Oct. 2021] One work is accepted by [IEEE BigData 21'](https://bigdataieee.org/BigData2021/): a hierachical graph learning for traffic impact.
-- **`[*Paper*]`**9/2021: One paper about mobility and COVID-19 spreading is accepted by [ASONAM 21'](https://asonam.cpsc.ucalgary.ca/2021/).
-- **`[*Service*]`**8/2021: Invited to serve as reviewer at [AAAI 22'](https://aaai.org/Conferences/AAAI-22/).
-- **`[*Tutorial*]`**5/2021: See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
-- **`[*Service*]`**5/2021: Invited to serve on the program committee as reviwer at [NeurlPS 21'](https://nips.cc),[ICML 21'](https://icml.cc/Conferences/2021),[ICLR 21'](https://iclr.cc/).
-- **`[*Paper*]`**12/2020: One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
-- **`[*Paper*]`**10/2020 One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
-- **`[*Paper & Award*]`**9/2020 Papers about Kalman filtering and school redistricting are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org) with (**Best Paper Award**)
-- **`[*Service*]`**8/2020 I will serve as reviwers in [AAAI 21'](https://aaai.org/Conferences/AAAI-21/), [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurIPS 20'](https://nips.cc).
-- **`[*Paper*]`**3/2020 A survey for Graph Neural Networks (GNN) is online: [[preprint]](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
-- **`[*Paper*]`**12/2019: [Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
+- **`[Paper]`**9/2021: One paper about mobility and COVID-19 spreading is accepted by [ASONAM 21'](https://asonam.cpsc.ucalgary.ca/2021/).
+- **`[Service]`**8/2021: Invited to serve as reviewer at [AAAI 22'](https://aaai.org/Conferences/AAAI-22/).
+- **`[Tutorial]`**5/2021: See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
+- **`[Service]`**5/2021: Invited to serve on the program committee as reviwer at [NeurlPS 21'](https://nips.cc),[ICML 21'](https://icml.cc/Conferences/2021),[ICLR 21'](https://iclr.cc/).
+- **`[Paper]`**12/2020: One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
+- **`[Paper]`**10/2020 One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
+- **`[Paper & Award]`**9/2020 Papers about Kalman filtering and school redistricting are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org) with (**Best Paper Award**)
+- **`[Service]`**8/2020 I will serve as reviwers in [AAAI 21'](https://aaai.org/Conferences/AAAI-21/), [SIGIR 20'](https://sigir.org/sigir2020/), [SIGKDD 20'](https://www.kdd.org/kdd2020/), [NeurIPS 20'](https://nips.cc).
+- **`[Paper]`**3/2020 A survey for Graph Neural Networks (GNN) is online: [[preprint]](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
+- **`[Paper]`**12/2019: [Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
   - Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles[[Top 50 Collection]](https://www.nature.com/collections/giacagiaca)
