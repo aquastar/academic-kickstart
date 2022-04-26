@@ -76,8 +76,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
   - [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 - **`[Service]`** 3/2022: Will serve as reviewer of [NeurIPS 22'](https://neurips.cc)
 - **`[Paper]`** 12/2021: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
-  - Graph Wavelet for Impact Forecast of Traffic Accidents
-  - With the support of the SIAM Early Career Travel Award, I will attend in person.
+  - Graph Wavelet for Impact Forecast of Traffic Accidents, with SIAM Early Career Travel Award
 - **`[Service]`** 12/2021:  Will serve as reviewer of [SIGIR 22'](https://sigir.org/sigir2022/), [ICML 22'](https://icml.cc), [IJCAI 22'](https://ijcai-22.org), [KDD 22'](https://kdd.org/kdd2022/)
 - **`[Paper]`** 10/2021: Recent works have been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), topics include:
   - Graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
