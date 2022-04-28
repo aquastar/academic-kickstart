@@ -8,7 +8,7 @@ authors:
 - Chang-Tien Lu
 - admin
 date: "2022-04-01T00:00:00Z"
-doi: "10.1109/ICDM.2017.98"
+doi: "https://doi.org/10.1137/1.9781611977172.12"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-04-01T00:00:00Z"
